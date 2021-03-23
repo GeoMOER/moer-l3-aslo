@@ -1,0 +1,15 @@
+
+# /_data/authors.yml
+
+- bengel:
+  name             : "Phillip Bengel"
+  avatar           : "/assets/images/icon_todo.png"
+  email            : "bengel@staff.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik"
+- zeuss:
+  name             : "Dirk Zeuss"
+  avatar           : "/assets/images/instructors/zeuss.jpg"
+  email            : "dirk.zeuss@uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  
+  
