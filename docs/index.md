@@ -43,58 +43,44 @@ Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionssc
 ## Gruppenarbeit und Gruppenbildung
 Sie sollten dieses Modul in Gruppen (4-5 Personen) belegen. 
 
-* Nehmen Sie dazu bitte unbedingt im Zeitraum vom <span style="color:red"> 23.-26.04.2021 </span> an der Umfrage in ILIAS teil! 
-Diese dient der Gruppenzuteilung und Bestätigung Ihrer Teilnahme am Seminar.
-* Eine Liste mit den Namen der voraussichtlichen Kursteilnehmer wird Ihnen per Mail zugesendet. Sprechen Sie sich gegebenenfalls digital ab, wenn Sie mit einem Bestimmten Kursmitglied in einer Gruppe arbeiten möchten und geben Sie dies bei der Umfrage an.
+* Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
 * Die Gruppe arbeitet das gesamte Modul (digital) zusammen. 
 Treffen Sie sich regelmäßig in Videokonferenzen (BigBlueButton, WebEx etc.) und bearbeiten sie gemeinsam die Übungen.
 
 
-## FAQs und Forum
-<span style="color:red"> Forum? </span>
+## FAQs
 
-Fragen können Sie im Forum stellen und sich dort auch gerne gegenseitig beantworten.
-
-* Achten Sie auf themengleiche Fragen --> Sinn des Forums!
-* Wir werden versuchen spezifische Fragen im Laufe einer Woche zu beantworten, häufig auftretende Fragen und Probleme werden wir in den FAQs klären. 
-* Im Bereich [FAQs]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) auf dieser Webseite werden die Fragen möglichst strukturiert aufgearbeitet. Schauen Sie also in das Forum und die FAQs!
+Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten.
+Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) auf dieser Webseite aufbereiten und für alle TeilnehmerInnen zur Verfügung stellen.
 
 
+## Kurszeiten
+Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.4.2021 im digitalen Kursraum.
 
-## Ablauf
 
-<span style="color:red"> 
-Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
-</span> 
-
-### Kurszeiten
-Dienstags, 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.4.2021.
-
-### Digitaler Kursraum
+## Digitaler Kursraum
 Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der Ilias-Lernplattform. 
 
 
-### Syllabus
-
-<span style="color:red"> to do </span>
+## Syllabus
 
 |    | Termin | Thema | Inhalt  | 
 |----|--------|-------|---------|
 |**Theorieteil**  ||||
 | 01 | 13.4.2021  | Einführung                 | Modulverlauf, Termine, Organisatorisches  | 
-| 02 | 20.4.2021  | Theoretische Grundlagen I  | Außerschulische Lernorte, Exkursionen, Bildung für eine nachhaltige Entwicklung     | 
+| 02 | 20.4.2021  | Theoretische Grundlagen I  | Außerschulische Lernorte, Exkursionen, Bildung für nachhaltige Entwicklung     | 
 | 03 | 27.4.2021  | Theoretische Grundlagen II | Ökosystemforschung und Nachhaltigkeit | 
-| 04 | 04.5.2021  | Konzeption und Review      | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
-| 05 | 11.5.2021  | xxx          | xxx | 
-| 06 | 25.5.2021  | xxx          | xxx | 
+| 04 | 04.5.2021  | Entwürfe und Review I      | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
+| 05 | 11.5.2021  | Entwürfe und Review II     | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
+| 06 | 25.5.2021  | Entwürfe und Review III    | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
 | ~~07~~ | ~~01.6.2021~~  | Projektwoche FB 19 | Termin entfällt | 
+| 08 | 08.6.2021  | Entwürfe und Review IV     | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
 | **Praxisteil**  ||||
-| 08 | 08.6.2021  | Außerschulische Lernorte   | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 09 | 15.6.2021  | xxx          | xxx | 
-| 10 | 22.6.2021  | xxx          | xxx | 
-| 11 | 29.6.2021  | xxx          | xxx | 
-| 12 | 06.7.2021  | xxx          | xxx | 
-| 13 | 13.7.2021  | xxx          | ende gelände | 
+| 09 | 15.6.2021  | Vorbesprechung Waldbesuch  | Organisatorisches | 
+| 10 | 22.6.2021  | Feldtermin I               | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 11 | 29.6.2021  | Feldtermin II              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 12 | 06.7.2021  | Feldtermin III             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 13 | 13.7.2021  | Feldtermin IV              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 
 
 ## Team

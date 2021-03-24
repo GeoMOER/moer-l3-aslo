@@ -1,15 +1,15 @@
 ---
 title: Studien- & Prüfungsleistung
 header:
-  image: "/assets/images/00-unit-splash.jpg"
-  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+  image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
+  caption: 'Photo: Environmental Informatics Marburg'
 ---
 
 ## Studien- und Prüfungsleistung
 
 Die Entwicklung und Durchführung einer außerschulischen Lernumgebung findet in Gruppen von 4-5 Personen entlang von Rahmenthemen statt. Die Zuteilung in Gruppen erfolgt auf Grundlage der Umfrageergebnisse durch die Modulleitung. Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. Die Vergabe des Teilbereichthemas erfolgt innerhalb der Gruppe.
 
-Die Rahmenthemen sind im Abschnitt Konzeption und Präsentation zu finden.
+Die Rahmenthemen sind im Abschnitt [Konzeption und Präsentation](link) zu finden.
 
 ### Studienleistung
 Die Studienleistung besteht (1.) aus der Vorstellung der Konzeption der außerschulischen Lernumgebung, einem kritisch reflexiven Feedback (2.) zum Konzeptentwurf einer Partnergruppe und (3.) aus der Durchführung der Lernumgebung im Marburg Open Forest. Vorstellung und Durchführung finden als Gruppenleistung statt.
@@ -22,7 +22,7 @@ Im Verlauf des Seminars werden alle Gruppen als Prüfungsleistung einen (fiktive
  
 * Erstellen Sie dazu in Ihrer Gruppe zunächst einen Konzeptentwurf, in welchem Sie kurz und übersichtlich Ihr Vorhaben einer anderen Gruppe vorstellen.
 * Senden Sie Ihren Konzeptentwurf bis zum <span style="color:red"> 14.5. </span>  der Ihnen zugewiesenen Partnergruppe.
-* Arbeiten Sie den Konzeptentwurf Ihrer Partnergruppe durch und schreiben Sie ein kritisches Review, in welchem Sie auf Unklarheiten, Fehler oder zu erwartende Probleme hinweisen.
+* Arbeiten Sie den Konzeptentwurf Ihrer Partnergruppe durch und schreiben Sie ein kritisches aber konstruktives Review, in welchem Sie auf Unklarheiten, Fehler oder zu erwartende Probleme hinweisen.
 * Senden Sie den Konzeptentwurf samt Review bis zum 28.05.2020 an den jeweiligen Übungsgruppenleiter. Benennen Sie die Datei folgendermaßen:
 
 

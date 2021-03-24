@@ -1,9 +1,12 @@
 ---
 title: FAQs
 header:
-  image: "/assets/images/00-unit-splash.jpg"
-  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+  image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
+  caption: 'Photo: Environmental Informatics Marburg'
 ---
+
+Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren Antworten.
+<!--more-->
 
 
 ## Literatur
