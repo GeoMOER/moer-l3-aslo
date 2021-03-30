@@ -3,8 +3,8 @@
 
 - bengel:
   name             : "Phillip Bengel"
-  avatar           : "/assets/images/icon_todo.png"
-  email            : "bengel@staff.uni-marburg.de"
+  avatar           : "/assets/images/instructors/bengel.jpg"
+  email            : "bengel@uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik"
 - zeuss:
   name             : "Dirk Zeuss"
