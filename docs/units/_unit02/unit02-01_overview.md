@@ -1,26 +1,33 @@
 ---
 title: Übersicht
+toc: false
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/teaser/unbekannt_bauwagen_3zu1.jpg
+  image_description: "xxx"
+  caption: "xxx"
 ---
 
+BEARBEITEN
 
-Die reale Welt ist komplex. Im Alltag konstruieren wir deshalb ständig kognitive Modelle, um unsere Umwelt zu vereinfachen und sie wahrnehmen zu können. In der geographischen Forschung erfolgt diese Vereinfachung zielgerichtet auf Basis einer Fragestellung. Einfach gefragt: Was macht einen Raum aus?
+<span style="color:red"> 
+ist bisher nur eine Kopie von Theoretische Grundlagen I
+</span>
 
+In diesem Abschnitt werden Sie den Universitätswald des Calderner Forstes (Marburg open Forest) als Forschungs- und Lernareal kennenlernen. 
+Sie werden sich mit dem Begriff des außerschulischen Lernorts vertraut machen und den Ansatz des Forschenden Lernens mit fachspezifischen Methoden der Geographie zusammenführen.
+Erarbeiten Sie selbstständig die Inhalte der Präsentationen AsLo 2-4 (siehe nächste Seite). 
+Beachten Sie ggf. ergänzende Erläuterungen in den "Notizen".
 <!--more-->
 
-## Was bisher geschah
-In der vorangegangenen Lerneinheit zur Raumbeschreibung & Interpretation haben Sie bereits Karten erforscht. Sie haben sich quasi vom Endprodukt einer räumlichen Abstraktion, im Beispiel in Form einer Karte, dem Problem der räumlichen Modellierung genähert. Sie haben die in der Karte dargestellten Informationen beschrieben, ihre Gültigkeit eingeschätzt und die Visualisierung bewertet. Der Raumausschnitt und die Auswahl an dargestellten Raumeigenschaften an sich wurden aber in der Aufgabe nicht hinterfragt.
-
-## Was wir in dieser Einheit vor haben
-Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften von Räumen und stellen die Modellierung des Raums in den Mittelpunkt. Wir starten nicht am Endprodukt, sondern gehen den Weg vorwärts: von der realen Welt aus über die Abstraktion eines abgrenzenden Raumausschnitts hin zur Darstellung. Auf dieser Grundlage können wir räumliche Informationen generieren und kommunizieren. Sie lernen Räume unter einem vorgegebenen Blickwinkel zu beschreiben, die Abstraktionen Dritter zu analysieren und einen Raumausschnitt selbst zu skizzieren und abstrahieren.
 
 ## Lernziele
-Am Ende dieser Lerneinheit können Sie
-* dargestellte Räume typisieren und analysieren,
-* einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren.
+Am Ende der Sitzung sollen Sie in der Lage sein
 
-## Folien der Videos als PDF
-{% include pdf pdf="Unit 02 - 00 Räumliche Modellierung.pdf" %}
+* die Begriffe außerschulischer Lernort, Exkursion und Bildung für nachhaltige Entwicklung differenzieren zu können,
+* den fachspezifischen Methodeneinsatz für ein Lehrkonzept im Rahmen eines außerschulischen Lernorts begründet zu wählen,
+* ein Lehrkonzept im Kontext des forschenden Lernens zu analysieren. 
+
+
+
+
+

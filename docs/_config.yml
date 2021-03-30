@@ -169,7 +169,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: geomoer/moer-meko
+repository: geomoer/moer-l3-aslo
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
