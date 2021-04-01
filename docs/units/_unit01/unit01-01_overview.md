@@ -2,7 +2,7 @@
 title: Übersicht
 toc: false
 header:
-  image: /assets/images/teaser/sstudis-im-mof (5) Cropped.jpg
+  image: /assets/images/teaser/studis-im-mof (5) Cropped.jpg
   image_description: "Studis im MOF"
   caption: "Photo: P. Bengel"
 ---

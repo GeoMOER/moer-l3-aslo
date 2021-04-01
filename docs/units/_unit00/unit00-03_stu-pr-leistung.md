@@ -1,7 +1,7 @@
 ---
 title: Studien- & Prüfungsleistung
 header:
-  image: "/assets/images/teaser/studis-hiolzstoß Cropped.jpg"
+  image: "/assets/images/teaser/studis-holzstoss Cropped.jpg"
   caption: 'Photo: P. Bengel'
 ---
 
