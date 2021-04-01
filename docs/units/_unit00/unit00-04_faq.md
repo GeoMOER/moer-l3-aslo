@@ -2,7 +2,7 @@
 title: FAQs
 header:
   image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
-  caption: 'Photo: Environmental Informatics Marburg'
+  caption: 'Photo: P. Bengel'
 ---
 
 Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren Antworten.

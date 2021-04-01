@@ -3,7 +3,7 @@ title: Digitales Lernen auf Distanz
 toc: true
 header:
   image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
-  caption: 'Photo: Environmental Informatics Marburg'
+  caption: 'Photo: P. Bengel'
 ---
 
 Wir starten unseren Kurs digital mit Webkonferenzen in [Big Blue Button](https://www.uni-marburg.de/de/hrz/dienste/web-konferenzen/web-konferenz-bigbluebutton) für die ersten Sitzungen des Theorieteils.
@@ -52,7 +52,7 @@ Jede Kleingruppe bleibt dann bis zum Ende des Kurses als Team zusammen.
 Auf ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. 
 Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. 
 Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten.
-Wir werden auf Ilias auch einen Webkonferenzraum für den Austausch unter Studierenden einrichten, den Sie unabhängig vom digitalen Kurshauptraum zum Austausch nutzen können. Weitere Informationen erhalten Sie in der ersten Sitzung.
+Wir werden auf ILIAS auch einen Webkonferenzraum für den Austausch unter Studierenden einrichten, den Sie unabhängig vom digitalen Kurshauptraum zum Austausch nutzen können. Weitere Informationen erhalten Sie in der ersten Sitzung.
 
 
 

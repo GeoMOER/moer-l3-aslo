@@ -2,31 +2,23 @@
 title: Studien- & Prüfungsleistung
 header:
   image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
-  caption: 'Photo: Environmental Informatics Marburg'
+  caption: 'Photo: P. Bengel'
 ---
 
 ## Studien- und Prüfungsleistung
 
-Die Entwicklung und Durchführung einer außerschulischen Lernumgebung findet in Gruppen von 4-5 Personen entlang von Rahmenthemen statt. Die Zuteilung in Gruppen erfolgt auf Grundlage der Umfrageergebnisse durch die Modulleitung. Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. Die Vergabe des Teilbereichthemas erfolgt innerhalb der Gruppe.
+Die Entwicklung und Durchführung einer außerschulischen Lernumgebung findet in Gruppen von 5-6 Personen entlang von Rahmenthemen statt. Die Zuteilung in Gruppen erfolgt auf Grundlage der Umfrageergebnisse durch die Modulleitung. Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. Die Vergabe des Teilbereichthemas erfolgt innerhalb der Gruppe.
 
 Die Rahmenthemen sind im Abschnitt [Konzeption und Präsentation](link) zu finden.
 
 ### Studienleistung
-Die Studienleistung besteht (1.) aus der Vorstellung der Konzeption der außerschulischen Lernumgebung, einem kritisch reflexiven Feedback (2.) zum Konzeptentwurf einer Partnergruppe und (3.) aus der Durchführung der Lernumgebung im Marburg Open Forest. Vorstellung und Durchführung finden als Gruppenleistung statt.
+Die Studienleistung besteht (1.) aus der Vorstellung der Konzeption der außerschulischen Lerneinheit, einem kritisch reflexiven Feedback (2.) zum Konzeptentwurf einer Partnergruppe und (3.) aus der Durchführung der Lerneinheit im Marburg Open Forest. Vorstellung, Feedback und Durchführung finden als Gruppenleistung statt.
 
 ### Benotete Prüfungsleistung
-Die benotete Prüfungsleistung ist ein (fiktiver) Beitrag für die Zeitschrift Geographie heute. Pro Gruppe wird ein Beitrag abgegeben. Der gesamte Beitrag ohne Anhang soll ca 4.- 5.000 Wörter umfassen. Die Erfahrungen und Rückmeldungen aus der Erprobung sollen in die Erstellung des Beitrags einfließen. Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. Der Anhang umfasst alle Vorlagen, Arbeitsblätter und Musterlösungen, die im Rahmen der Lernumgebung verwendet wurden. Die Bewertung erfolgt individuell entsprechend des definierten Teilbereichs.
+Die benotete Prüfungsleistung ist ein (fiktiver) Beitrag für die Zeitschrift _Geographie heute_. Bei der Erstellung ist sich sowohl bezüglich der inhaltlichen Struktur als auch des Layouts des eigenen Textes an realen Publikationen der Zeitschrift zu orientieren. Pro Gruppe wird ein Beitrag abgegeben. Der gesamte Beitrag ohne Anhang soll ca 4.- 5.000 Wörter umfassen. Die Erfahrungen und Rückmeldungen aus der Erprobung sollen in die Erstellung des Beitrags einfließen. Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. Der Anhang umfasst alle Vorlagen, Arbeitsblätter und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Die Bewertung erfolgt individuell entsprechend des definierten Teilbereichs.
 
 ### Übungsabgaben
-Im Verlauf des Seminars werden alle Gruppen als Prüfungsleistung einen (fiktiven) Artikel für die Zeitschrift (Geographie heute) ausarbeiten.
+Zum Abschluss des Seminars werden alle Gruppen als Prüfungsleistung einen (fiktiven) Artikel für die Zeitschrift (_Geographie heute_) ausarbeiten. Die Inhalte und Übungen des Theorie- und Praxisteils sollen Sie auf diese Aufgabe vorbereiten.
+Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie in am Ende der jeweiligen Lerneinheiten. Abgaben zu den Übungen sind immer fristgerecht bis zum Folgetermin im dafür vorgesehenen [Bereich auf ILIAS](link) hochzuladen. 
  
-* Erstellen Sie dazu in Ihrer Gruppe zunächst einen Konzeptentwurf, in welchem Sie kurz und übersichtlich Ihr Vorhaben einer anderen Gruppe vorstellen.
-* Senden Sie Ihren Konzeptentwurf bis zum <span style="color:red"> 14.5. </span>  der Ihnen zugewiesenen Partnergruppe.
-* Arbeiten Sie den Konzeptentwurf Ihrer Partnergruppe durch und schreiben Sie ein kritisches aber konstruktives Review, in welchem Sie auf Unklarheiten, Fehler oder zu erwartende Probleme hinweisen.
-* Senden Sie den Konzeptentwurf samt Review bis zum 28.05.2020 an den jeweiligen Übungsgruppenleiter. Benennen Sie die Datei folgendermaßen:
 
-
-`Übung1_[Gruppenname der Autorengruppe]_[Gruppenname der Review-Gruppe]` Bsp: Übung1_Biodiversität2_Mikroklima1
-
-* Die Lösung muss immer bis zum vorgegebenen Zeitpunkt hochgeladen werden. Danach ist für diese Übung keine Einreichung mehr möglich. 
-* Sie finden die Übungen und die Einreichungsmöglichkeit im Kursbereich der Ilias-Lernplattform. 
