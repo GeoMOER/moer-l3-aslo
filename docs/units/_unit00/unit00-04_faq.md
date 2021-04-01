@@ -1,7 +1,7 @@
 ---
 title: FAQs
 header:
-  image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
+  image: "/assets/images/teaser/studis-experiment Cropped.jpg"
   caption: 'Photo: P. Bengel'
 ---
 

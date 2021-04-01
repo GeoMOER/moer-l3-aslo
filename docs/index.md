@@ -5,8 +5,8 @@ date: '2018-02-06 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: "/assets/images/teaser/banner_aslo_2018_mod.jpg"
-  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+  overlay_image: "/assets/images/teaser/studis-im-mof (5) Cropped.jpg"
+  caption: 'Photo: P. Bengel'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
 excerpt: Außerschulische Lernorte und Bildung für nachhaltige Entwicklung im Geographieunterricht

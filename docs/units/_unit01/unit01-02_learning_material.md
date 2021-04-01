@@ -2,9 +2,9 @@
 title: LM | Exkursionskonzept
 toc: true
 header:
-  image: /assets/images/teaser/bengel_wald4_4zu1.jpg
-  image_description: "Blick von unten nach oben in das Blätterdach eines Laubwaldes"
-  caption: "Foto: Bengel"
+  image: /assets/images/teaser/studis-im-mof (5) Cropped.jpg
+  image_description: "Studis im MOF"
+  caption: "Photo: P.Bengel"
 ---
 
 

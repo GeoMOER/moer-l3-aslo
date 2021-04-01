@@ -2,9 +2,9 @@
 title: A01 | Finales Exkursionskonzept
 toc: false
 header:
-  image: /assets/images/teaser/bengel_wald4_4zu1.jpg
-  image_description: "Blick von unten nach oben in das Blätterdach eines Laubwaldes"
-  caption: "Foto: Bengel"
+  image: /assets/images/teaser/arbeitsblatt Cropped.jpg
+  image_description: "Arbeitsblatt zum AsLo"
+  caption: "Foto: P. Bengel"
 ---
 
 

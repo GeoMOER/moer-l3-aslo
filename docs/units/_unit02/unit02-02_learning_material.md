@@ -2,9 +2,9 @@
 title: LM | Exkursionskonzept
 toc: true
 header:
-  image: /assets/images/teaser/unbekannt_bauwagen_3zu1.jpg
-  image_description: "xxx"
-  caption: "xxx"
+  image: /assets/images/teaser/studis-am-teich Cropped.jpg
+  image_description: "Studis am Teich"
+  caption: "Photo: P. Bengel"
 ---
 
 

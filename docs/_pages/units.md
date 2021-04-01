@@ -3,7 +3,7 @@ title: Kurseinheiten
 id: Units
 header:
   image: "/assets/images/teaser/bengel_wald_4zu1.jpg"
-  caption: 'Photo: p. Bengel'
+  caption: 'Photo: P. Bengel'
 
 permalink: /units.html
 sidebar:

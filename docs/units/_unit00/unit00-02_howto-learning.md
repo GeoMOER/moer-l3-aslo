@@ -2,7 +2,7 @@
 title: Digitales Lernen auf Distanz
 toc: true
 header:
-  image: "/assets/images/teaser/bengel_wald2_4zu1.jpg"
+  image: "/assets/images/teaser/natur-digital.jpg"
   caption: 'Photo: P. Bengel'
 ---
 

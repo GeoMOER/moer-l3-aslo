@@ -2,9 +2,9 @@
 title: A | Konzeption außerschulischer Lernorte
 toc: false
 header:
-  image: /assets/images/teaser/04-splash.jpg
-  image_description: "Unübersichtlich beschriebene Universitätstafel"
-  caption: "Foto: Wikimedia Commons / CC0"
+  image: /assets/images/teaser/arbeitsblatt Cropped.jpg
+  image_description: "Arbeitsblatt zum AsLo"
+  caption: "Photo: P. Bengel"
 ---
 
 Entwickeln Sie in ihrer Gruppe ein Konzept für Ihren außerschulischen Lernort im Marburg Open Forest.

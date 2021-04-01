@@ -2,30 +2,24 @@
 title: Übersicht
 toc: false
 header:
-  image: /assets/images/teaser/unbekannt_bauwagen_3zu1.jpg
-  image_description: "xxx"
-  caption: "xxx"
+  image: /assets/images/teaser/studis-am-teich Cropped.jpg
+  image_description: "Studis am Teich"
+  caption: "Photo: P. Bengel"
 ---
 
-BEARBEITEN
 
-<span style="color:red"> 
-ist bisher nur eine Kopie von Theoretische Grundlagen I
-</span>
-
-In diesem Abschnitt werden Sie den Universitätswald des Calderner Forstes (Marburg open Forest) als Forschungs- und Lernareal kennenlernen. 
-Sie werden sich mit dem Begriff des außerschulischen Lernorts vertraut machen und den Ansatz des Forschenden Lernens mit fachspezifischen Methoden der Geographie zusammenführen.
-Erarbeiten Sie selbstständig die Inhalte der Präsentationen AsLo 2-4 (siehe nächste Seite). 
-Beachten Sie ggf. ergänzende Erläuterungen in den "Notizen".
+In diesem Abschnitt werden Sie den Universitätswald des Calderner Forstes (Marburg open Forest) als Forschungs- und Lernareal kennenlernen. Sie erhalten einen Einblick in die Ökosystemforschung, wie sie dort, aber auch andernorts betrieben wird und beschäftigen sich dazu mit zentralen ökologischen und gesellschaftlichen Problemstellungen unserer Zeit aus geographischer Perspektive. Letzteres stellt schließlich den Ausgangspunkt Ihres nachfolgend zu entwickelnden Lernkonzepts in Form eines AsLo dar.
 <!--more-->
 
 
 ## Lernziele
 Am Ende der Sitzung sollen Sie in der Lage sein
 
-* die Begriffe außerschulischer Lernort, Exkursion und Bildung für nachhaltige Entwicklung differenzieren zu können,
-* den fachspezifischen Methodeneinsatz für ein Lehrkonzept im Rahmen eines außerschulischen Lernorts begründet zu wählen,
-* ein Lehrkonzept im Kontext des forschenden Lernens zu analysieren. 
+* ein Ökosystem als solches zu interpretieren und seine Eigenschaften und Funktionen zu beschreiben,
+* Ansätze und Methoden der Ökosystemforschung differenzieren zu können,
+* das System "Wald" aus geographisch-räumlicher und ökologischer Perspektive zu analysieren und
+* es schließlich unter gesellschaftlichen, ökologischen und ökonomischen Gesichtspunkten zu beurteilen.
+
 
 
 

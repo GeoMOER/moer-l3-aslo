@@ -2,9 +2,9 @@
 title: A01 | Finales Exkursionskonzept
 toc: false
 header:
-  image: /assets/images/teaser/unbekannt_bauwagen_3zu1.jpg
-  image_description: "xxx"
-  caption: "xxx"
+  image: /assets/images/teaser/arbeitsblatt Cropped.jpg
+  image_description: "Arbeitsblatt zum AsLo"
+  caption: "Photo: P. Bengel"
 ---
 
 

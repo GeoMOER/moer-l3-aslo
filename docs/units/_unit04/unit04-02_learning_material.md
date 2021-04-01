@@ -2,9 +2,9 @@
 title: LM | Feldtermine
 toc: false
 header:
-  image: /assets/images/teaser/UI_hillshade_4zu1.jpg
-  image_description: "Digitales Oberflächenmodell des Lahntals um Caldern"
-  caption: "Foto: Environmental Informatics Marburg"
+  image: /assets/images/teaser/banner_aslo_2018_mod.jpg
+  image_description: "MOF"
+  caption: "Photo: Environmental Informatics Marburg"
 ---
 
 
