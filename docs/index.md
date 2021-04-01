@@ -41,7 +41,7 @@ Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionssc
 
 
 ## Gruppenarbeit und Gruppenbildung
-Sie sollten dieses Modul in Gruppen (4-5 Personen) belegen. 
+Sie werden dieses Modul in Gruppen (5-6 Personen) durchlaufen. 
 
 * Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
 * Die Gruppe arbeitet das gesamte Modul (digital) zusammen. 
@@ -55,7 +55,7 @@ Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.bas
 
 
 ## Kurszeiten
-Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.4.2021 im digitalen Kursraum.
+Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.04.2021 im digitalen Kursraum.
 
 
 ## Digitaler Kursraum
@@ -67,20 +67,24 @@ Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der Ilia
 |    | Termin | Thema | Inhalt  | 
 |----|--------|-------|---------|
 |**Theorieteil**  ||||
-| 01 | 13.4.2021  | Einführung                 | Modulverlauf, Termine, Organisatorisches  | 
-| 02 | 20.4.2021  | Theoretische Grundlagen I  | Außerschulische Lernorte, Exkursionen, Bildung für nachhaltige Entwicklung     | 
-| 03 | 27.4.2021  | Theoretische Grundlagen II | Ökosystemforschung und Nachhaltigkeit | 
-| 04 | 04.5.2021  | Entwürfe und Review I      | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
-| 05 | 11.5.2021  | Entwürfe und Review II     | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
-| 06 | 25.5.2021  | Entwürfe und Review III    | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
-| ~~07~~ | ~~01.6.2021~~  | Projektwoche FB 19 | Termin entfällt | 
-| 08 | 08.6.2021  | Entwürfe und Review IV     | Entwicklung eines außerschulischen Lernorts in Gruppen und Diskussion des entwickelten Lernortkonzepts | 
+| 01 | 13.04.2021  | Einführung                     | Modulverlauf, Termine, Organisatorisches  | 
+| 02 | 20.04.2021  | Theoretische Grundlagen I      | Außerschulische Lernorte, Exkursionsdidaktik, Bildung für nachhaltige Entwicklung (BNE)     | 
+| 03 | 27.04.2021  | Theoretische Grundlagen II     | Raumanalyse "Wald", Ökosystemforschung, Nachhaltigkeit | 
+| 04 | 04.05.2021  | Konzeptentwürfe I              | Konzeptentwurf für einen außerschulischen Lernort | 
+| 05 | 11.05.2021  | Konzeptentwürfe II             | Konzeptentwurf für einen außerschulischen Lernort | 
+| 06 | 18.05.2021  | Experten-Review I              | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort |
+| 07 | 25.05.2021  | Experten-Review II             | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
+| ~~08~~ | ~~01.06.2021~~  | Projektwoche FB 19     | Termin entfällt | 
 | **Praxisteil**  ||||
-| 09 | 15.6.2021  | Vorbesprechung Waldbesuch  | Organisatorisches | 
-| 10 | 22.6.2021  | Feldtermin I               | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 11 | 29.6.2021  | Feldtermin II              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 12 | 06.7.2021  | Feldtermin III             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 13 | 13.7.2021  | Feldtermin IV              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 09 | tbd*  | Vorbesprechung Waldbesuch  | Organisatorisches | 
+| 10 | tbd*  | Feldtermin I               | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 11 | tbd*  | Feldtermin II              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 12 | tbd*  | Feldtermin III             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 13 | tbd*  | Feldtermin                 | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| **Prüfung**  ||||
+| 14 | tbd*  | Besprechung zur Prüfungsleistung	    | Hinweise zur Ausarbeitung der Abgaben + Frage-Antwort-Session | 
+
+(* diese Termine werden in der Einführungsveranstaltung festgelegt - voraussichtlich für KW 41)
 
 
 ## Team
