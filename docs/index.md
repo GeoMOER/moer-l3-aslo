@@ -45,7 +45,7 @@ Sie werden dieses Modul in Gruppen (5-6 Personen) durchlaufen.
 
 * Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
 * Die Gruppe arbeitet das gesamte Modul (digital) zusammen. 
-Treffen Sie sich regelmäßig in Videokonferenzen (BigBlueButton, WebEx etc.) und bearbeiten sie gemeinsam die Übungen.
+Treffen Sie sich regelmäßig in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen.
 
 
 ## FAQs
@@ -55,11 +55,11 @@ Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.bas
 
 
 ## Kurszeiten
-Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.04.2021 im digitalen Kursraum.
+Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.04.2021 im digitalen [Kursraum](https://ilias.uni-marburg.de/goto.php?target=xmvc_2362493&client_id=UNIMR).
 
 
 ## Digitaler Kursraum
-Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der Ilias-Lernplattform. 
+Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der [ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=2344330&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui). 
 
 
 ## Syllabus
@@ -68,23 +68,23 @@ Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der Ilia
 |----|--------|-------|---------|
 |**Theorieteil**  ||||
 | 01 | 13.04.2021  | Einführung                     | Modulverlauf, Termine, Organisatorisches  | 
-| 02 | 20.04.2021  | Theoretische Grundlagen I      | Außerschulische Lernorte, Exkursionsdidaktik, Bildung für nachhaltige Entwicklung (BNE)     | 
-| 03 | 27.04.2021  | Theoretische Grundlagen II     | Raumanalyse "Wald", Ökosystemforschung, Nachhaltigkeit | 
-| 04 | 04.05.2021  | Konzeptentwürfe I              | Konzeptentwurf für einen außerschulischen Lernort | 
-| 05 | 11.05.2021  | Konzeptentwürfe II             | Konzeptentwurf für einen außerschulischen Lernort | 
-| 06 | 18.05.2021  | Experten-Review I              | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort |
-| 07 | 25.05.2021  | Experten-Review II             | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
+| 02 | 20.04.2021  | Theoretische Grundlagen I      | Außerschulische Lernorte     | 
+| 03 | 27.04.2021  | Theoretische Grundlagen II     | Exkursionsdidaktik, Bildung für nachhaltige Entwicklung (BNE) | 
+| 04 | 04.05.2021  | Theoretische Grundlagen III    | Raumanalyse "Wald", Ökosystemforschung, Nachhaltigkeit | 
+| 05 | 11.05.2021  | Konzeptentwürfe I              | Konzeptentwurf für einen außerschulischen Lernort | 
+| 06 | 18.05.2021  | Konzeptentwürfe II             | Konzeptentwurf für einen außerschulischen Lernort |
+| 07 | 25.05.2021  | Experten-Review                | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
 | ~~08~~ | ~~01.06.2021~~  | Projektwoche FB 19     | Termin entfällt | 
 | **Praxisteil**  ||||
-| 09 | tbd*  | Vorbesprechung Waldbesuch  | Organisatorisches | 
+| 09 | tbd*  | Vorbesprechung Waldbesuche | Organisatorisches | 
 | 10 | tbd*  | Feldtermin I               | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | 11 | tbd*  | Feldtermin II              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | 12 | tbd*  | Feldtermin III             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 13 | tbd*  | Feldtermin                 | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 13 | tbd*  | Feldtermin IV              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | **Prüfung**  ||||
 | 14 | tbd*  | Besprechung zur Prüfungsleistung	    | Hinweise zur Ausarbeitung der Abgaben + Frage-Antwort-Session | 
 
-(* diese Termine werden in der Einführungsveranstaltung festgelegt - voraussichtlich für KW 41)
+(* diese Termine werden in der Einführungsveranstaltung festgelegt - voraussichtlich für KW 40)
 
 
 ## Team
