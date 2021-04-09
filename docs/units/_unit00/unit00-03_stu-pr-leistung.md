@@ -9,7 +9,9 @@ header:
 
 Die Entwicklung und Durchführung einer außerschulischen Lernumgebung findet in Gruppen von 5-6 Personen entlang von Rahmenthemen statt. Die Zuteilung in Gruppen erfolgt auf Grundlage der Umfrageergebnisse durch die Modulleitung. Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. Die Vergabe des Teilbereichthemas erfolgt innerhalb der Gruppe.
 
+<!--
 Die Rahmenthemen sind im Abschnitt [Konzeption und Präsentation](link) zu finden.
+-->
 
 ### Studienleistung
 Die Studienleistung besteht (1.) aus der Vorstellung der Konzeption der außerschulischen Lerneinheit, einem kritisch reflexiven Feedback (2.) zum Konzeptentwurf einer Partnergruppe und (3.) aus der Durchführung der Lerneinheit im Marburg Open Forest. Vorstellung, Feedback und Durchführung finden als Gruppenleistung statt.

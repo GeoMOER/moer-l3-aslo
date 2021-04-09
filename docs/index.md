@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Außerschulische Lernorte und Bildung für nachhaltige Entwicklung im Geographieunterricht
 feature_row_intro:
-- excerpt: Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
+- excerpt: Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} an der Philipps Universität Marburg
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -29,23 +29,24 @@ Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographisch
 Am Ende des Kurses sollen Sie in der Lage sein
 * ausgehend von einer fachlichen Problemstellung eine außerschulische Lernumgebung konzipieren zu können,
 * dafür fachspezifische Methoden so aufzubereiten, dass eine adressaten- und problemorientierte Lernsituation geschaffen wird, und
-* eine Lernumgebung am konkreten außerschulischen Standort aus fachlicher, fachdidaktischer Perspektive sowie im Hinblick auf Bildung für nachhaltige Entwicklung zu analysieren.
+* eine Lernumgebung am konkreten außerschulischen Standort aus fachlicher und fachdidaktischer Perspektive sowie im Hinblick auf Bildung für nachhaltige Entwicklung zu analysieren.
 
 
 
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Theorieteil des Kurses findet deshalb in der digitalen Welt statt. Der Praxisteil ist in Präsenz geplant. Studierende, die den Kurs im Sommersemester 2021 besuchen, finden alle notwendigen Informationen im Bereich [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der Ilias-Lernplattform](add link).
+Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Theorieteil des Kurses findet deshalb in der digitalen Welt statt. Der Praxisteil ist in Präsenz geplant. Studierende, die den Kurs im Sommersemester 2021 besuchen, finden alle notwendigen Informationen im Bereich [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"}.
 {: .notice--info}
 
 
 ## Gruppenarbeit und Gruppenbildung
-Sie werden dieses Modul in Gruppen (5-6 Personen) durchlaufen. 
+Sie werden dieses Modul in Gruppen von 6 Personen durchlaufen. 
 
 * Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
-* Die Gruppe arbeitet das gesamte Modul (digital) zusammen. 
-Treffen Sie sich regelmäßig in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen.
+* Die Gruppe arbeitet das gesamte Modul zusammen. 
+Treffen Sie sich regelmäßig in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
+* Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"} zur Verfügung.
 
 
 ## FAQs
@@ -55,11 +56,11 @@ Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.bas
 
 
 ## Kurszeiten
-Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.04.2021 im digitalen [Kursraum](https://ilias.uni-marburg.de/goto.php?target=xmvc_2362493&client_id=UNIMR).
+Dienstags 14:15 bis 15:45 Uhr. Kursbeginn ist am 13.04.2021 im digitalen Kursraum, [hier](https://ilias.uni-marburg.de/goto.php?target=xmvc_2362493&client_id=UNIMR){:target="_blank"}.
 
 
 ## Digitaler Kursraum
-Den Link zum digitalen Kursraum finden Sie im geschlossenen Kursbereich der [ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=2344330&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui). 
+Den Link zum digitalen Kursraum finden Sie auch im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=2344330&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui){:target="_blank"}. 
 
 
 ## Syllabus
