@@ -13,12 +13,16 @@ Bitte erstellen Sie sich mithilfe einer (online) Recherche eine erste Übersicht
  
 Versuchen Sie sich damit folgende Fragen zu beantworten:
 
-* Was macht einen außerschulischen Lernort aus?
-* Welche Ziele werden damit verfolgt?
-* Wann und für wen ist er geeignet?
-* In welche Rolle spielen außerschulische Lernorte für eine *Bildung für nachhaltige Entwicklung* (BNE)?
-* Welche Rolle spielt fächerübgreifender Unterricht in Zusammenhang mit außerschulischen Lernorten?
+1. **Was** macht einen **außerschulischen Lernort** aus?
+Was ist ein AsLo, was nicht?
+2. Eine (Schul-)Exkursion zu organisieren ist aufwendig. **Warum** braucht es überhaupt **AsLos**? (Vorteile, Ziele, Kompetenzen)
+3. **Wann** und für **wen** eignet sich ein AsLo? (Zielgruppen, Situationen, Kontexte und Schul- bzw. Unterrichtseinbidnung)
+4. Welche Rolle spielt **forschendes Lernen** in Zusammenhang mit außerschulischen Lernorten? (finden Sie ein konkretes Beispiel) 
+5. Warum eignen sich AsLos besonders gut für eine **_Bildung für nachhaltige Entwicklung_** (BNE)? (Vergleich zu Schulunterricht, evtl. mit Beispiel)
+6. AsLos werden oft für **fächerübergreifenden Unterricht** eingesetzt. Finden Sie ein konkretes Beispiel mit Erdkunde und einem anderen Fach und bewerten Sie, ob bzw. warum dieser FÜU-Ansatz dafür sinnvoll ist. 
+ 
 
+Notieren Sie sich zu jedem der sechs Punkte 2-3 Stichpunkte und die dazugehörigen Quellen, damit Sie Ihre Informationen mit anderen Kursteilnehmenden vergleichen und diskutieren können.
 
 ## Einreichung
 Diese Übung muss **nicht** abgegeben werden, Ergebnisse dienen aber als Grundlage für die nachfolgende Online-Session. 

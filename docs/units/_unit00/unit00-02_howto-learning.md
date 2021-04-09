@@ -8,7 +8,7 @@ header:
 
 Wir starten unseren Kurs digital mit Webkonferenzen in [Big Blue Button](https://www.uni-marburg.de/de/hrz/dienste/web-konferenzen/web-konferenz-bigbluebutton) für die ersten Sitzungen des Theorieteils.
 Im Theorieteil beschäftigen wir uns mit den didaktischen und fachlichen Grundlagen von Außerschulischen Lernorten im Sinne einer Bildung für nachhaltige Entwicklung.
-Im daran anschließenden Praxisteil werden Sie ausgehend von einer fachlichen Problemstellung ihre außerschulische Lernumgebung im [Marburg Open Forest](https://www.uni-marburg.de/de/fb19/fachbereich/infrastruktur/mof) erproben können.
+Im daran anschließenden Praxisteil werden Sie ausgehend von einer fachlichen Problemstellung Ihre außerschulische Lernumgebung im [Marburg Open Forest](https://www.uni-marburg.de/de/fb19/fachbereich/infrastruktur/mof) erproben können.
 <!--more-->
 
 
@@ -27,16 +27,16 @@ Solche Änderungen finden Sie im Kursbereich auf ILIAS und wir werden Sie per Em
 
 ## Übersicht über Kommunikationsformen
 
-Für die Zeit der digitalen Lehre auf Distanz nutzen wir in diesem Kurs folgende Kommunikationsmedien:
+Für die Zeit der digitalen Lehre auf Distanz nutzen wir in diesem Kurs die folgend aufgeführten Kommunikationsmedien. Bei Fragen und Problemen sind Sie dazu angehalten, sich bitte immer zuerst selbstständig und in Eigenrecherche, bzw. im Austausch mit Ihren Kommiliton*innen (Gruppenräume, E-Mail, Forum, etc.) oder mithilfe dieser Lernumgebung (z.B. FAQs) Klarheit zu verschaffen. Sollten sie damit keinen Erfolg haben, können Sie sich selbstverständlich mit Ihren Anliegen direkt per E-Mail an die Seminarleitung wenden.
 
 ### Diese Webseite
 Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in ILIAS
-Der [Kursbereich auf ILIAS](link) dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
+Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344330&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui) dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in ILIAS
-In Ilias ist ein Forum eingerichtet, welches Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
+In Ilias ist ein [Forum](https://ilias.uni-marburg.de/goto.php?target=frm_2363391&client_id=UNIMR) eingerichtet, welches Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
 Hier können Sie inhaltliches und organisatorische untereinander klären. 
 Das Forum wird von uns nicht betreut. 
 
