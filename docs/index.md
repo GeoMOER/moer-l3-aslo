@@ -85,7 +85,7 @@ Den Link zum digitalen Kursraum finden Sie auch im geschlossenen [Kursbereich de
 | **Prüfung**  ||||
 | 14 | tbd*  | Besprechung zur Prüfungsleistung	    | Hinweise zur Ausarbeitung der Abgaben + Frage-Antwort-Session | 
 
-(* diese Termine werden in der Einführungsveranstaltung festgelegt - voraussichtlich für KW 40)
+(* diese Termine werden in der Einführungsveranstaltung festgelegt - voraussichtlich für KW 39)
 
 
 ## Team
