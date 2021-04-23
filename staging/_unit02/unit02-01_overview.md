@@ -8,17 +8,25 @@ header:
 ---
 
 
-In diesem Abschnitt werden Sie den Universitätswald des Calderner Forstes (Marburg open Forest) als Forschungs- und Lernareal kennenlernen. Sie erhalten einen Einblick in die Ökosystemforschung, wie sie dort, aber auch andernorts betrieben wird und beschäftigen sich dazu mit zentralen ökologischen und gesellschaftlichen Problemstellungen unserer Zeit aus geographischer Perspektive. Letzteres stellt schließlich den Ausgangspunkt Ihres nachfolgend zu entwickelnden Lernkonzepts in Form eines AsLo dar.
+In diesem Abschnitt werden Sie sich exemplarisch mit dem Ökosystem Wald als außerschulischen Lernort beschäftigen. 
+Sie erhalten einen Einblick in die aktuelle Situation deutscher Wälder, Entwicklungen und Herausforderungen und deren gesellschaftliche, ökonomische und ökologische Bedeutung. 
+Sie erhalten eine Übersicht über zentrale Forschungsbereiche rund um den Wald, die Ihnen schließlich als Ausgangspunkte für Ihr nachfolgend zu entwickelndes Lehr-Lernkonzepts dienen sollen.
 <!--more-->
 
+## Was bisher geschah
+Sie haben die Grundkonzepte eines außerschulischen Lernortes verinnerlicht und sich erste Gedanken zu einer strukturellen Gestaltung 
+und einer Einbettung in nachhaltigkeits-relevante Rahmenthemen gemacht. Sie konnten Ihre Erkenntnisse und Überlegungen beispielhaft an einem ersten eigenen Entwurf erproben 
+und sich mit anderen Kurs-Gruppen ein gegenseitiges Feedback dazu geben.
+  
 
 ## Lernziele
 Am Ende der Sitzung sollen Sie in der Lage sein
 
-* ein Ökosystem als solches zu interpretieren und seine Eigenschaften und Funktionen zu beschreiben,
-* Ansätze und Methoden der Ökosystemforschung differenzieren zu können,
-* das System "Wald" aus geographisch-räumlicher und ökologischer Perspektive zu analysieren und
-* es schließlich unter gesellschaftlichen, ökologischen und ökonomischen Gesichtspunkten zu beurteilen.
+* die Entwicklung und aktuelle Situation der Wälder in Deutschland reflektieren und beurteilen,
+* ein Ökosystem als solches interpretieren und seine Eigenschaften und Funktionen beschreiben,
+* das *System Wald* aus geographisch-räumlicher und ökologischer Perspektive analysieren und
+* es schließlich unter gesellschaftlichen, ökologischen und ökonomischen Gesichtspunkten beurteilen <br> zu können.
+
 
 
 

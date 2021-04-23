@@ -1,5 +1,5 @@
 ---
-title: A | Konzeption außerschulischer Lernorte
+title: A0 | Konzeption außerschulischer Lernorte
 toc: false
 header:
   image: /assets/images/teaser/arbeitsblatt Cropped.jpg
