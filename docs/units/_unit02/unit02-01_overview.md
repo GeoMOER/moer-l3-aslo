@@ -26,8 +26,8 @@ Am Ende der Sitzung sollen Sie in der Lage sein
 
 * die aktuelle Situation und Entwicklung der Wälder in Deutschland zu reflektieren und zu beurteilen,
 * ein Ökosystem als solches zu interpretieren und seine Eigenschaften und Funktionen zu beschreiben,
-* das *System Wald* aus geographisch-räumlicher und ökologischer Perspektive zu analysieren und
-* es schließlich unter gesellschaftlichen, ökologischen und ökonomischen Gesichtspunkten beurteilen zu können.
+* das *System Wald*  unter gesellschaftlichen, ökologischen und ökonomischen Gesichtspunkten betrachten und
+* schließlich einzelne Wälder und Waldabschnitte aus geographisch-räumlicher und ökologischer Perspektive zu analysieren und beurteilen zu können.
 
 
 
