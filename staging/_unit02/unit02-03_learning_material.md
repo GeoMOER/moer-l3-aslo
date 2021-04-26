@@ -19,9 +19,8 @@ Schematische Darstellung der Elemente eines Systems (P. Bengel)<br>
 
 Ökosysteme bestehen aus einer Lebensgemeinschaft (**Biozönose**) und Lebensraum (**Biotop**), 
 die aufgrund vielfältiger Interaktionen eine Einheit bilden. 
-So ist es auch beim Ökosystem Wald. Die Struktur umfasst **abiotische** (*Klima, geographische Lage, Geologie, Boden *, Topographie, Relief,* …) und **biotische** (*Tiere, Pflanzen, Pilze, Mikroorganismen *,* …) Elemente, die in Wechselwirkung und Anhängigkeiten zueinander stehen. 
+So ist es auch beim Ökosystem Wald. Die Struktur umfasst **abiotische** (z.B. Klima, geographische Lage, Geologie, Boden, Topographie, Relief) und **biotische** (z.B. Tiere, Pflanzen, Pilze, Mikroorganismen) Elemente, die in Wechselwirkung und Abhängigkeiten zueinander stehen. 
 <br>
-*genau genommen finden sich im Boden sowohl abiotische als auch biotische Elemente (z.B. Mikroorganismen)
 
 
 ![oekosystem]({{site.baseurl}}/assets/images/oekosystem-schema.png)
@@ -29,7 +28,7 @@ Schematische Darstellung eines Waldes als Ökosystem (P. Bengel)<br>
 
 Die farbigen Kästchen (mit Ausnahme des Violetten) in der obigen Graphik stellen den **Biotop** dar. 
 Die Pfeile symbolisieren diverse Wechselwirkungen, Funktionen und Stoffflüsse und stehen damit für die **Biozönose**. 
-Die **Elemente** stehen innerhalb der Struktur in Wechselwirkung und Anhängigkeiten zueinander und bilden die Voraussetzungen für vielfältige **Funktionen**.
+Die **Elemente** stehen innerhalb der Struktur in Wechselwirkung und Abhängigkeiten zueinander und bilden die Voraussetzungen für vielfältige **Funktionen**.
 
 ### Ökosystemfunktionen
 
@@ -45,7 +44,7 @@ Die Funktionen eines Ökosystems lassen sich in solche zur **Selbsterhaltung** u
 ![oekosys_funktion]({{site.baseurl}}/assets/images/oekosystemfunktionen.png)
 <br>
 <br>
-Die Betrachtung der Elemente und Strukturen eines Ökosystems und das Wissen um deren Funktion bilden, 
+Die Betrachtung der Elemente und Strukturen eines Ökosystems und das Wissen um deren Funktionen bilden, 
 zusammen mit einer temporalen Komponente (Zeit), die Grundlage für das Verständnis einzelner **Prozesse** im System.
 
 ### Einteilung von Wäldern
@@ -61,11 +60,11 @@ zusammen mit einer temporalen Komponente (Zeit), die Grundlage für das Verstän
 
 ##### nach *Nutzungsformen*
 * Bewirtschaftungsarten
-* Schutzgebiet-Typen
+* Schutzgebietstypen
 
 ### Themenbereiche für Ihren AsLo
 Für die Ausarbeitung des Konzeptes für Ihre Exkursion zu einem selbstgestalteten AsLo im Uni-Wald stehen Ihnen **fünf übergeordnete Rahmenthemen** zur Wahl. 
-Deren systematische Ableitung können sie der folgenden Grafik entnehmen.<br> <br>
+Deren systematische Ableitung können Sie der folgenden Grafik entnehmen.<br> <br>
 ![oekosys_aufbau]({{site.baseurl}}/assets/images/themen_AsLo-wald.png)
 Ableitung unserer inhaltlichen Schwerpunkte (P. Bengel)<br>
 
@@ -78,7 +77,7 @@ Bsp.: Gewässergüte, Abbau und Zersetzung, Bodenfeuchte, Mikrotopographie, ...
 ##### 4. Mikroklima
 Bsp.: Temperatur, Niederschlag, Strahlung, Wind, Luftfeuchtigkeit, ...
 ##### 5. Mensch & Wald
-Bsp.: Ästhetik, Umweltwahrnehmung, Interessenskonflikte, Freizeitgestaltung & Toruismus, Umwelt- & Klimawandel-Adaption, ...
+Bsp.: Ästhetik, Umweltwahrnehmung, Interessenskonflikte, Freizeitgestaltung & Tourismus, Umwelt- & Klimawandel-Adaption, ...
 
 
 

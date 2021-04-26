@@ -9,10 +9,6 @@ Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren A
 <!--more-->
 
 
-###  Kann man Medienkompetenzen und Aslo parallel belegen?
-
-Prinzipiell schon, aber formelle Zulassungsbedingungen müssen individuell und selbstständig geprüft werden.
-
 
 ### Wird es  mehrere Präsenztermine im Praxisteil geben?
 
@@ -27,6 +23,12 @@ Bei Terminproblemen für den Praxisteil (z.B. Erasmus, parallele Veranstaltungen
 ### Fällt man durch wenn man verhindert ist an einem Termin ?
 
 Nein.
+
+
+###  Kann man Meko und Aslo parallel belegen?
+
+Prinzipiell schon, aber formelle Zulassungsbedingungen müssen individuell und selbstständig geprüft werden.
+Bei paralleler Belegung muss Meko bestanden werden, weil es Voraussetzung für Aslo ist.
 
 
 ###  Wird das Seminar nur im Sommersemester angeboten?

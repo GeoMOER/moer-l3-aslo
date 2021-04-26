@@ -70,8 +70,8 @@ Den Link zum digitalen Kursraum finden Sie auch im geschlossenen [Kursbereich de
 |**Theorieteil**  ||||
 | 01 | 13.04.2021  | Einführung                     | Modulverlauf, Termine, Organisatorisches  | 
 | 02 | 20.04.2021  | Theoretische Grundlagen I      | Außerschulische Lernorte     | 
-| 03 | 27.04.2021  | Theoretische Grundlagen II     | Exkursionsdidaktik, forschendes Lernen, Bildung für nachhaltige Entwicklung (BNE) | 
-| 04 | 04.05.2021  | Theoretische Grundlagen III    | Der Wald als AsLo, Rahmenthemen | 
+| 03 | 27.04.2021  | Theoretische Grundlagen II     | Der Wald als AsLo, Rahmenthemen | 
+| 04 | 04.05.2021  | Theoretische Grundlagen III    | Exkursionsdidaktik, forschendes Lernen, Bildung für nachhaltige Entwicklung (BNE) | 
 | 05 | 11.05.2021  | Konzeptentwürfe I              | Konzeptentwurf für einen außerschulischen Lernort | 
 | 06 | 18.05.2021  | Konzeptentwürfe II             | Konzeptentwurf für einen außerschulischen Lernort |
 | 07 | 25.05.2021  | Experten-Review                | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 

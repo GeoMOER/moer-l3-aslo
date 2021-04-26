@@ -11,7 +11,8 @@ header:
 
 Außerschulische Lernorte können unterschiedlichste Formen annehmen. 
 Sie eignen sich für rurale wie urbane Gebiete, wobei der räumliche und thematische Kontext 
-dabei je nach Rahmenthema, inhaltlichen Schwerpunkten und Lernzielen variiert.<br> 
+dabei je nach Rahmenthema, inhaltlichen Schwerpunkten und Lernzielen variiert.
+
 Um besser auf konkrete Situationen einzugehen und unser Veranstaltungsformat möglichst praxisnah gestalten zu können, wählen wir für die folgenden
 Abschnitte dieses Kurses ein stellvertretendes Beispiel.
 Dazu bietet sich der Wald an, da er eine vielfältige Gestaltung außerschulischer Lernorte zulässt
@@ -21,14 +22,15 @@ und sich besonders gut zur Integration in geographische und BNE-orientierte Sett
 Es folgt eine Übersicht zu den wichtigsten Charakteristika unserer heimischen Wälder, die Ihnen als Anhaltspunkte und Inspiration für Ihre AsLo-Konzepte dienen sollen. <br>
 <br>
 ![oekosys_aufbau]({{site.baseurl}}/assets/images/deutscher_wald.png)
+
 #### Entwicklung und Status
-Ab den 80-er Jahren sorgte der kranke deutsche Wald auch international für Aufsehen. 
+Ab den 80er Jahren sorgte der kranke deutsche Wald auch international für Aufsehen. 
 Seitdem sprechen etwa auch die Franzosen von „Le Waldsterben“. 
 Nach Angaben der Bundesregierung haben Luftreinhalte-Maßnahmen die Wälder inzwischen messbar entlastet. 
-Dennoch überschreiten vor allem Stickstoffeinträge vielerorts die kritischen Raten. 
+Dennoch überschreiten vor allem Stickstoffeinträge vielerorts kritische Werte. 
 Die Waldböden haben begonnen, sich zu erholen. 
 Maßnahmen zur Senkung von luftgetragenen Schadstoff- und Stickstoffeinträgen sind jedoch weiterhin erforderlich. 
-Sorgen bereiten allerdings die Sturmschäden im Winterhalbjahr 2017/2018, die langanhaltende Dürre der Sommer 2018 und 2019 sowie der davon profitierende Borkenkäferbefall – die daraus resultierenden aktuellen Waldschäden seien dramatisch und die Folgen würden den gesamten forstwirtschaftlichen Sektor stark belasten, betont die Bundesregierung.  
+Sorgen bereiten allerdings die Sturmschäden im Winterhalbjahr 2017/2018, die langanhaltende Dürre der Sommer 2018 und 2019 sowie der davon profitierende Borkenkäferbefall – die daraus resultierenden aktuellen Waldschäden seien dramatisch und die Folgen würden den gesamten forstwirtschaftlichen Sektor stark belasten, betont die Bundesregierung.
 Aus einer ökologischen Perspektive kommt mit dem erhöhten Totholzanteil allerdings auch ein gewisses Potenzial für den Zuwachs der Biodiversität. Denn eine weit größere Zahl von Insekten, Pilzen und anderen Lebewesen profitiert von toten oder kranken Baumteilen, als es bei gesunden Bäumen der Fall wäre. 
 Gleichzeitig sind, als eine Folge der Corona-Pandemie, gerade die Wälder als Erholungsgebiete und Orte individueller Freizeitgestaltung so gefragt wie seit langem nicht mehr.
 #### Waldfläche
