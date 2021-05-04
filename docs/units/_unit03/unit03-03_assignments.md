@@ -17,14 +17,15 @@ Die Schulleitung hat nicht viel Zeit, muss also kurz und knapp über das Nötigs
 ## Aufgabe
 Entwickeln Sie in Ihrer Gruppe einen Konzeptentwurf zu Ihrem Rahmenthema. 
 Sie können die gymnasiale Zielgruppe (Jahrgangsstufe) frei wählen. 
-Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihrer Idee(n) auf max. 2 DIN A4 Seiten + grober Ablaufplan 1 Seite.<br>
+Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihrer Idee(n) auf max. **2 DIN A4 Seiten + grober Ablaufplan 1 Seite**.<br> <br>
+In den nachfolgenden Onlineveranstaltungen bekommen Sie die Möglichkeit Ihre Ideen weiter zu verfeinern, im Plenum bzw. in Gruppensessions gegenseitiges Feedback auszutauschen oder direkte Rückfragen an die Kursleiter zu stellen.
 
 ## Einreichung
-Laden Sie Ihren Entwurf bis zum **17.05.21** um **23:59 Uhr** in ILIAS hoch.<br> 
+Laden Sie Ihren Entwurf bis zum **24.05.21** um **23:59 Uhr** in ILIAS hoch.<br> 
 Den Ordner zur Abgabe finden Sie [Hier]( https://ilias.uni-marburg.de/ilias.php?ref_id=2425429&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilRepositoryGUI){:target="_blank"}.<br>
 Die Datei soll das Datum der Abgabe enthalten und in folgender Form benannt werden: TT-MM-JJJJ_Gruppe[Zahl]_[Rahmenthema].pdf <br>(Bsp.: 17-05-2021_Gruppe14_Strukturdiversitaet.pdf)<br>
 
-In den nachfolgenden Onlineveranstaltungen bekommen Sie die Möglichkeit Ihre Ideen im Plenum oder in Gruppensessions vorzustellen und gegenseitiges Feedback auszutauschen.
+
  
 
 

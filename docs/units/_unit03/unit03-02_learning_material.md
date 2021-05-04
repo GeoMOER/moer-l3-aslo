@@ -11,7 +11,7 @@ header:
 Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. andere Lehrpersonen) einen ersten Eindruck vermitteln und den inhaltlichen und organisatorischen Strukturen darstellen die thematische Einordnung klären. 
 Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
 
-**Beachten Sie:** Es handelt sich dabei weder um einen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte!
+**Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte!
 {: .notice--info}
     
 
@@ -49,7 +49,7 @@ Die nachfolgende Grafik zeigt eine exemplarische Systemeinordnung des Marburg Op
 
 
 ## Internes Review des Konzepts
-Nehmen Sie sich Zeit für ein internes Review Ihres Konzepts in der Gruppe, bevor Sie es einreichen und präsentieren.
+Nehmen Sie sich Zeit für ein internes Review Ihres Konzepts in der Gruppe, bevor Sie es einreichen oder ggf. präsentieren.
 
 Legen Sie großen Wert auf die Fachperspektive der Teilbereiche, die geplante didaktische Umsetzung sowie das Ineinandergreifen der einzelnen Teilbereiche im Gesamtthema.
 
