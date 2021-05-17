@@ -15,8 +15,8 @@ Bis jetzt waren Sie fast ausschließlich in der Rolle der Gestalter tätig und h
 
 ## Lernziele
 Am Ende dieser Einheit sollten Sie
--	Einen bewussten Perspektivwechsel vollziehen
+-	Einen bewussten Perspektivwechsel vollziehen,
 -	um mithilfe Ihrer Kenntnisse und Kompetenzen ein konstruktives Review zu einem fremden Konzept zu erarbeiten
 -	und später genauso auch eine kritische Reflexion Ihrer eigenen Ideen 
-Vornehmen zu können.
+vornehmen zu können.
 
