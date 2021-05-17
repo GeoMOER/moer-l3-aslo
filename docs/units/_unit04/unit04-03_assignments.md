@@ -11,7 +11,7 @@ Erstellen Sie zusammen mit Ihrer Gruppe (**Reviewgruppe**) ein kritisch-konstruk
 <!--more-->
 
 ## Aufgabe
-Sie verfassen ein professionelles Review im Umfang von **einer DIN A4 Seite** zu dem Konzept der Ihnen zugeordneten Autorengruppe. Es steht Ihnen zudem frei innerhalb des Konzeptentwurfes Kommentare, Markierungen oder Anmerkungen zu hinterlassen.
+Sie verfassen ein professionelles Review im Umfang von mindestens **einer DIN A4 Seite** zu dem Konzept der Ihnen zugeordneten Autorengruppe. Es steht Ihnen zudem frei innerhalb des Konzeptentwurfes Kommentare, Markierungen oder Anmerkungen zu hinterlassen.
 
 ## Einreichung
 Laden Sie bis zum **24.05.21** um **23:59 Uhr** den ggf. bearbeiteten Konzeptentwurf der Ihnen zugeordneten Autorengruppe zusammen mit Ihrem Review als **eine PDF-Datei** in ILIAS hoch.<br>
