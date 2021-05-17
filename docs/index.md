@@ -74,7 +74,7 @@ Den Link zum digitalen Kursraum finden Sie auch im geschlossenen [Kursbereich de
 | 04 | 04.05.2021  | Theoretische Grundlagen III    | Der Wald als AsLo, Wahl der Rahmenthemen | 
 | 05 | 11.05.2021  | Konzeptentwürfe I              | Konzeptentwurf für einen außerschulischen Lernort | 
 | 06 | 18.05.2021  | Konzeptentwürfe II             | Konzeptentwurf für einen außerschulischen Lernort |
-| 07 | 25.05.2021  | Experten-Review                | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
+| 07 | 25.05.2021  | Expert*innen-Review            | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
 | ~~08~~ | ~~01.06.2021~~  | Projektwoche FB 19     | Termin entfällt | 
 | **Praxisteil**  ||||
 | 09 | tbd*  | Vorbesprechung Waldbesuche | Organisatorisches | 

@@ -101,7 +101,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "How-to AsLO"
+      category: "How-to AsLo"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -141,7 +141,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "Experten-Review"
+      category: "Expert*innen-Review"
       tags: "Unit 04"
       layout: single
       sidebar:
