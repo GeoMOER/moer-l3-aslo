@@ -77,13 +77,13 @@ Den Link zum digitalen Kursraum finden Sie auch im geschlossenen [Kursbereich de
 | 07 | 25.05.2021  | Expert*innen-Review            | Feedback und Diskussion zu entworfenen Konzepten für einen außerschulischen Lernort | 
 | ~~08~~ | ~~01.06.2021~~  | Projektwoche FB 19     | Termin entfällt | 
 | **Praxisteil**  ||||
-| 09 | tbd*  | Vorbesprechung Waldbesuche | Organisatorisches (bei Bedarf kurz vorher) | 
-| 10 | tbd*  | Feldtermin I               | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 11 | tbd*  | Feldtermin II              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 12 | tbd*  | Feldtermin III             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 13 | tbd*  | Feldtermin IV              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 09 | tbd*  | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 10 | tbd*  | Feldtermin II             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 11 | tbd*  | Feldtermin III            | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 12 | tbd*  | Feldtermin IV             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| 13 | tbd*  | Feldtermin V              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | **Prüfung**  ||||
-| 14 | 13.07.2021  | Besprechung zur Prüfungsleistung	    | Hinweise zur Ausarbeitung der Abgaben + Frage-Antwort-Session | 
+| 14 | 13.07.2021  | Abschlussbesprechung	    | Organisatorisches zu Waldbesuchen und zur Prüfungsleistung. Möglichkeit für Fragen. | 
 
 (* diese Termine finden größtenteils in der KW 39 statt und werden im Veranstaltungsverlauf noch genau festgelegt)
 
