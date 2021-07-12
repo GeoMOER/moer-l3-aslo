@@ -6,6 +6,7 @@ header:
 ---
 
 
+## Zeitplan
 
 
 Datum              | Uhrzeit       | Gruppe    | Thema              | Treffpunkt |
@@ -29,8 +30,20 @@ Mittagspause 12:30 - 14:00 |||||
 Mittwoch 29.9. | 14:00 - 15:30 | Gruppe 4  | Boden und Wasser       | tbd*       |
 |--------------|---------------|-----------|------------------------|------------|
 
-
 *wird noch festgelegt
+
+
+## Haupttreffpunkt
+
+Falls nichts anderes von den einzelnen Gruppen angegeben wurde ist der Treffpunkt für die einzelnen Aslos hier:
+
+![https://goo.gl/maps/kAA88xanWEeBEAC66]({{site.baseurl}}/assets/images/uniwald_parken.png)
+
+
+
+[https://goo.gl/maps/kAA88xanWEeBEAC66](https://goo.gl/maps/kAA88xanWEeBEAC66){:target="_blank"}
+
+
 
 
 

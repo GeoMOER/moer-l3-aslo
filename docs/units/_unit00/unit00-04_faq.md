@@ -3,6 +3,7 @@ title: FAQs
 header:
   image: "/assets/images/teaser/studis-experiment Cropped.jpg"
   caption: 'Photo: P. Bengel'
+toc: true  
 ---
 
 Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren Antworten.
@@ -118,7 +119,8 @@ Zum aktuellen Stand wird das Seminar nur im Sommersemester angeboten.
 
 ### Benötigte ich spezielle Ausrüstung für den Praxisteil im Uniwald?
 
-Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinken (es gibt nur eine zentrale Toilette).
+Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinke. Es gibt nur eine zentrale Toilette.
+
 
 ## Literatur
 Einiges an Literatur zur Vertiefung der Themen finden Sie im ILIAS-Ordner „Literatur“. 
