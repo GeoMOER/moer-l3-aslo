@@ -47,7 +47,7 @@ Sie werden dieses Modul in kleingruppen durchlaufen.
 
 * Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
 * Die Gruppe arbeitet das gesamte Modul zusammen. 
-* Treffen Sie sich regelmäßig in Präseenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
+* Treffen Sie sich regelmäßig in Präsenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
 * Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"} zur Verfügung.
 
 
