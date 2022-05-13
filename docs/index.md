@@ -66,14 +66,14 @@ Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz
 |    | Termin | Thema | Inhalt  | 
 |----|--------|-------|---------|
 |**Theorieteil**  ||||
-| 01 | 25.05.2022  | Einführung                     | Modulverlauf, Termine, Organisatorisches  | 
-| 02 | 01.06.2022  | tbd      | tbd | 
-| 03 | 08.06.2022  | tbd      | tbd |
-| 04 | 15.06.2022  | tbd      | tbd | 
-| 05 | 22.06.2022  | tbd      | tbd |
-| 06 | 29.06.2022  | tbd      | tbd |
-| 07 | 06.07.2022  | tbd      | tbd | 
-| 08 | 13.07.2022  | tbd      | tbd | 
+| 01 | 25.05.2022  | Einführung                     | Modulverlauf, Termine, Gruppenbildung, Organisatorisches  | 
+| 02 | 01.06.2022  | Theoretische Grundlagen 1      | BNE, Forschendes Lernen, Exkursionsdidaktik | 
+| 03 | 08.06.2022  | Konzeptideen     | Themenverteilung: Mensch & Wald, Boden & Wasser, Mikroklima, Biodiversität, Strukturdiversität  |
+| 04 | 15.06.2022  | Theoretische Grundlagen 2      | (Projektwoche) | 
+| 05 | 22.06.2022  | Theoretische Grundlagen 3     | Konzeptentwürfe  |
+| 06 | 29.06.2022  | Theoretische Grundlagen 4     | Reviews |
+| 07 | 06.07.2022  | Konzeptbewertungen mit Reviewpräsentationen       | Finale Konzepte zuhause vorbereiten  | 
+| 08 | 13.07.2022  | Finales Konzept      | Orga für Blocktermine  | 
 | **Praxisteil**  ||||
 | 09 | 25.07.2022 | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | 10 | 26.07.2022 | Feldtermin II             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
