@@ -61,7 +61,7 @@ Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.bas
 Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz 
 
 
-## Syllabus
+## Seminarplan
 
 |    | Termin | Thema | Inhalt  | 
 |----|--------|-------|---------|
