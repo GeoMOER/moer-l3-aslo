@@ -34,9 +34,9 @@ Ja. Genaueres legen wir dann nach der finalen Gruppeneinteilung fest.
 Nein. Es steht euch frei zu mehreren Terminen dazu zu kommen, wir können es euch nur empfehlen. Ihr solltet allerdings zumindest an dem Tag, an dem auch eure eigene Gruppe präsentiert von Anfang bis Ende dabei sein.
 Diesen Termin solltet ihr nur aus schwerwiegenden Gründen versäumen und eure Abwesendheit mit eurer Gruppe und der Kursleitung im Vorfeld klar kommunizieren.
 
-### Bis wann muss der Zeitschrigten-Artikel (Prüfungsleistung) abgegeben werden?
+### Bis wann muss der Zeitschriften-Artikel (Prüfungsleistung) abgegeben werden?
 
-Bis 17.10. (siehe [Studien- & Prüfungsleistung](https://geomoer.github.io/moer-l3-aslo//unit00/unit00-03_stu-pr-leistung.html))
+siehe [Studien- & Prüfungsleistung](https://geomoer.github.io/moer-l3-aslo//unit00/unit00-03_stu-pr-leistung.html)
 
 ### Welche Rolle spielen Vor- und Nachbereitung für unsere Praxistermine und die Artikel?
 
@@ -95,11 +95,6 @@ fair zu verteilen, denn ihr werdet am Ende als Gruppe
 bewertet. Es ist euch aber freigestellt wie ihr euch
 organisiert, Hauptsache es läuft für euch.
 
-### "Spezialgruppe" 
-
-Bei Terminproblemen für den Praxisteil (z.B. Erasmus, parallele Veranstaltungen) bitte der "Spezialgruppe" in Ilias beitreten und wir werden eine individuelle Lösung finden.
-
-
 
 ### Fällt man durch wenn man verhindert ist an einem Termin ?
 
@@ -119,7 +114,7 @@ Zum aktuellen Stand wird das Seminar nur im Sommersemester angeboten.
 
 ### Benötigte ich spezielle Ausrüstung für den Praxisteil im Uniwald?
 
-Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinke. Es gibt nur eine zentrale Toilette.
+Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinken. Es gibt nur eine zentrale Toilette.
 
 
 ## Literatur

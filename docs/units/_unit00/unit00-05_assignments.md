@@ -16,7 +16,7 @@ Versuchen Sie sich damit folgende Fragen zu beantworten:
 1. **Was** macht einen **außerschulischen Lernort** aus?
 Was ist ein AsLo, was nicht?
 2. Eine (Schul-)Exkursion zu organisieren ist aufwendig. **Warum** braucht es überhaupt **AsLos**? (Vorteile, Ziele, Kompetenzen)
-3. **Wann** und für **wen** eignet sich ein AsLo? (Zielgruppen, Situationen, Kontexte und Schul- bzw. Unterrichtseinbidnung)
+3. **Wann** und für **wen** eignet sich ein AsLo? (Zielgruppen, Situationen, Kontexte und Schul- bzw. Unterrichtseinbindung)
 4. Welche Rolle spielt **forschendes Lernen** in Zusammenhang mit außerschulischen Lernorten? (finden Sie ein konkretes Beispiel) 
 5. Warum eignen sich AsLos besonders gut für eine **_Bildung für nachhaltige Entwicklung_** (BNE)? (Vergleich zu Schulunterricht, evtl. mit Beispiel)
 6. AsLos werden oft für **fächerübergreifenden Unterricht** eingesetzt. Finden Sie ein konkretes Beispiel mit Erdkunde und einem anderen Fach und bewerten Sie, ob bzw. warum dieser FÜU-Ansatz dafür sinnvoll ist. 
@@ -25,4 +25,4 @@ Was ist ein AsLo, was nicht?
 Notieren Sie sich zu jedem der sechs Punkte 2-3 Stichpunkte und die dazugehörigen Quellen, damit Sie Ihre Informationen mit anderen Kursteilnehmenden vergleichen und diskutieren können.
 
 ## Einreichung
-Diese Übung muss **nicht** abgegeben werden, Ergebnisse dienen aber als Grundlage für die nachfolgende Online-Session. 
+Diese Übung muss **nicht** abgegeben werden, Ergebnisse dienen jedoch als Grundlage für den nachfolgenden Kurstermin.

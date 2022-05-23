@@ -7,13 +7,13 @@ header:
 
 ## Studien- und Prüfungsleistung
 
-Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in Gruppen von 5-6 Personen entlang von Rahmenthemen statt. 
+Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in Kleingruppen entlang von Rahmenthemen statt. 
 Die Zuteilung in Gruppen erfolgt durch die Kursleitung. 
 Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. 
 Die Vergabe des Teilbereichss erfolgt innerhalb der Gruppe, ist aber für eine getrennte Benotung der Gruppenmitglieder in der finalen Abgabe (Prüfungsleistung) kenntlich zu machen.
 
 <!--
-Die Rahmenthemen sind in der Einheit [Theoretische Grundlagen II](https://geomoer.github.io/moer-l3-aslo/unit02/unit02-03_learning_material.html){:target="_blank"} zu finden.
+Die Rahmenthemen sind (nach Freischaltung) in der Einheit [Theoretische Grundlagen II](https://geomoer.github.io/moer-l3-aslo/unit02/unit02-03_learning_material.html){:target="_blank"} zu finden.
 -->
 
 ### Studienleistung
@@ -38,8 +38,8 @@ Modalitäten zu Art und Fristen der Abgaben werden in den vorhergehenden Einheit
 Sofern in den Sessions nicht anders besprochen, sind Abgaben zu den Übungen immer fristgerecht bis zum Folgetermin im dafür vorgesehenen Bereich auf ILIAS hochzuladen. <br> 
 Zum Abschluss des Seminars werden alle Gruppen als Prüfungsleistung einen (fiktiven) Artikel für die Zeitschrift ([_Geographie heute_](https://www.friedrich-verlag.de/shop/sekundarstufe/erdkunde/fachzeitschriften/geographie-heute){:target="_blank"}) ausarbeiten. 
 Die Inhalte und Übungen des Theorie- und Praxisteils sollen Sie auf diese Aufgabe vorbereiten. <br>
-Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **17.10.2021** um **23:59 Uhr** in den entsprechenden [Abgabe-Ordner](https://ilias.uni-marburg.de/ilias.php?ref_id=2447986&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilRepositoryGUI){:target="_blank"} auf ILIAS hochzuladen und in folgender Form zu bennen: _TT-MM-JJJJ_Artikel_Guppe[nr.].pdf_ 
-<br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie in am Ende der jeweiligen Lerneinheiten, hier in der HTML-Lernungebung. <br>
+Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **(Datum wird noch bekannt gegeben)** um **23:59 Uhr** in den entsprechenden [Abgabe-Ordner](https://ilias.uni-marburg.de/ilias.php?ref_id=2447986&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilRepositoryGUI){:target="_blank"} auf ILIAS hochzuladen und in folgender Form zu bennen: _TT-MM-JJJJ_Artikel_Guppe[nr.].pdf_ 
+<br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie in am Ende der jeweiligen Lerneinheiten, hier im Lernmodul. <br>
 
  
 

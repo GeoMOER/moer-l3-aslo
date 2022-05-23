@@ -6,31 +6,31 @@ header:
   caption: 'Photo: P. Bengel'
 ---
 
-Wir starten unseren Kurs digital mit Webkonferenzen in [Big Blue Button](https://www.uni-marburg.de/de/hrz/dienste/web-konferenzen/web-konferenz-bigbluebutton){:target="_blank"} für die ersten Sitzungen des Theorieteils.
+Wir starten unseren Kurs in Präsenz mit den Sitzungen zum Theorieteil.
 Im Theorieteil beschäftigen wir uns mit den didaktischen und fachlichen Grundlagen von Außerschulischen Lernorten im Sinne einer Bildung für nachhaltige Entwicklung.
 Im daran anschließenden Praxisteil werden Sie ausgehend von einer fachlichen Problemstellung Ihre außerschulische Lernumgebung im [Marburg Open Forest](https://www.uni-marburg.de/de/fb19/fachbereich/infrastruktur/mof){:target="_blank"} erproben können.
 <!--more-->
 
 
-## Web-basierte Lernumgebung
+## Web-basiertes Lernmodul
 
-Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage (HTML Lernumgebung), die wir auf GitHub erstellen. 
+Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage (Lernmodul), die wir auf GitHub erstellen. 
 Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
 
 
-## Lernen mit Webkonferenzen
-Zusätzlich zur Bereitstellung von Materialien auf dieser Webseite wollen wir uns mit Ihnen in Webkonferenzen treffen.
+## Lernen im Präsenz-Kurs
+Zusätzlich treffen wir uns mit Ihnen regelmäßig in Seminargruppen um die Inhalte zu besprechen, in Arbeitsphasen aufzuarbeiten und stellenweise zu vertiefen, sowie um Fragen zu klären und die jewils nächsten Sessions vorzubereiten.  
 
-Kurzfristige Änderungen z.B. des Webkonferenzraums können immer auftreten. 
+Kurzfristige Änderungen z.B. des Kursraums können immer auftreten. 
 Solche Änderungen finden Sie im Kursbereich auf ILIAS und wir werden Sie per Email informieren.
 
 
 ## Übersicht über Kommunikationsformen
 
-Für die Zeit der digitalen Lehre auf Distanz nutzen wir in diesem Kurs die folgend aufgeführten Kommunikationsmedien. Bei Fragen und Problemen sind Sie dazu angehalten, sich bitte immer zuerst selbstständig und in Eigenrecherche, bzw. im Austausch mit Ihren Kommiliton*innen (Gruppenräume, E-Mail, Forum, etc.) oder mithilfe dieser Lernumgebung (z.B. FAQs) Klarheit zu verschaffen. Sollten sie damit keinen Erfolg haben, können Sie sich mit Ihren Anliegen direkt per E-Mail an die Seminarleitung wenden.
+Für diesen Kurs nutzen wir aktuell die folgend aufgeführten Kommunikationsmedien. Bei Fragen und Problemen sind Sie dazu angehalten, sich bitte immer zuerst selbstständig und in Eigenrecherche, bzw. im Austausch mit Ihren Kommiliton*innen (Persönlich, E-Mail, Messenger-Gruppen, etc.) oder mithilfe dieser Lernumgebung (z.B. FAQs) Klarheit zu verschaffen. Sollten sie damit keinen Erfolg haben, können Sie sich mit Ihren Anliegen direkt per E-Mail an die Seminarleitung wenden.
 
 ### Diese Webseite
-Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
+Dieses online Lernmodul dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in ILIAS
 Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
@@ -48,7 +48,7 @@ Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adresse
 Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten.
 Wir werden auf ILIAS auch einen Webkonferenzraum für den Austausch unter Studierenden einrichten, den Sie unabhängig vom digitalen Kurshauptraum zum Austausch nutzen können. Weitere Informationen erhalten Sie in der ersten Sitzung.
 
-Wir habe für jede Gruppe einen eigenen Webkonferenzraum im Kursbereich in ILIAS eingerichtet den Sie jederzeit nutzen können.
+Wir haben für jede Gruppe einen eigenen Webkonferenzraum im Kursbereich in ILIAS eingerichtet den Sie jederzeit nutzen können.
 {: .notice--info}
 
 
