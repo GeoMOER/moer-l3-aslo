@@ -1,5 +1,5 @@
 ---
-title: Digitales Lernen auf Distanz
+title: Lernen in Präsenz, digital und vor Ort
 toc: true
 header:
   image: "/assets/images/teaser/natur-digital.jpg"
