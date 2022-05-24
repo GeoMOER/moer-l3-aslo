@@ -21,8 +21,6 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-<font color="red"><b>ACHTUNG:</b>
-Diese Seite befindet sich aktuell im Umbau. Hier bereitgestellte Informationen können unvollständig oder fehlerhaft sein. Die Seite wird bis zum offiziellen Kursstart fertig gestellt.  Wir bitten um Verständnis!</font>
 
 ## Allgemeines 
 Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
@@ -47,8 +45,8 @@ Sie werden dieses Modul in kleingruppen durchlaufen.
 
 * Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
 * Die Gruppe arbeitet das gesamte Modul zusammen. 
-* Treffen Sie sich regelmäßig in Präsenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
-* Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"} zur Verfügung.
+* Sie treffen sich regelmäßig in Präsenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
+* Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} zur Verfügung.
 
 
 ## FAQs
@@ -68,11 +66,11 @@ Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz
 |**Theorieteil**  ||||
 | 01 | 25.05.2022  | Einführung                     | Modulverlauf, Termine, Gruppenbildung, Organisatorisches  | 
 | 02 | 01.06.2022  | Theoretische Grundlagen 1      | BNE, Forschendes Lernen, Exkursionsdidaktik | 
-| 03 | 08.06.2022  | Konzeptideen     | Themenverteilung: Mensch & Wald, Boden & Wasser, Mikroklima, Biodiversität, Strukturdiversität  |
+| 03 | 08.06.2022  | Konzeptideen     | Erste Ideen für außerschulische Lernorte  |
 | 04 | 15.06.2022  | Theoretische Grundlagen 2      | (Projektwoche) | 
-| 05 | 22.06.2022  | Theoretische Grundlagen 3     | Konzeptentwürfe  |
-| 06 | 29.06.2022  | Theoretische Grundlagen 4     | Reviews |
-| 07 | 06.07.2022  | Konzeptbewertungen mit Reviewpräsentationen       | Finale Konzepte zuhause vorbereiten  | 
+| 05 | 22.06.2022  | Konzeptentwürfe     | Verteilung der Rahmenthemen / Entwurf eines AsLo-Konzepts  |
+| 06 | 29.06.2022  | Peer-Reviews     | ExpertInnenfeedback von anderen Seminargruppen zu den Entwürfen |
+| 07 | 06.07.2022  | Konzeptbewertungen mit Reviewpräsentationen       | Finale Ausarbeitung der Konzepte | 
 | 08 | 13.07.2022  | Finales Konzept      | Orga für Blocktermine  | 
 | **Praxisteil**  ||||
 | 09 | 25.07.2022 | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 

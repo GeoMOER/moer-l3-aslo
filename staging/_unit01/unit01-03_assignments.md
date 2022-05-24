@@ -29,7 +29,8 @@ Diese Übung soll Ihnen helfen sich mit diesen Themen anhand eines konkreten Bei
 * Was ist für eine Nachbereitung der Exkursion im Klassenzimmer wichtig? Wie kann diese aussehen?
 
 **Erarbeiten Sie diese Aufgabe bitte in Ihrer Gruppe.** 
-Bereiten Sie im Anschluss eine kleine Präsentation vor mit deren Hilfe Sie Ihre Überlegungen einer anderen Gruppe in max. 7 Minuten nachvollziehbar (in einem BBB-Meeting) darlegen können. 
+Notieren Sie Ihre Ergebnisse strukturiert auf einer DIN-A4-Seite. Bereiten Sie im Anschluss eine kleine Präsentation vor, mit deren Hilfe Sie Ihre Überlegungen den anderen Gruppen in max. 12 Minuten nachvollziehbar darlegen können. 
 
 ## Einreichung
-Die Ergebnisse der Übung müssen **nicht** eingereicht werden, aber für eine Kurzpräsentation in Gruppenarbeit bis zum nächsten Termin aufbereitet werden.
+Die Ergebnisse dieser Übung müssen bis spätestens **48 Stunden vor dem nächsten Kurstermin** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
+Bennenen Sie Ihre Abgabe dazu wie folgt: **A02_Gruppe[Nummer].pdf** bzw **.docx**. (Präsentationen, z. B. .pptx müssen nicht mithochgeladen werden.)
