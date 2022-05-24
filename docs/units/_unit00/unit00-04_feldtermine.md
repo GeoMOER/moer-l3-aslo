@@ -17,7 +17,6 @@ Montag 25.7.22     | tbd* | tbd*  | tbd*| tbd*       |
 Dienstag 26.7.22   | tbd* | tbd*  | tbd*| tbd*       |
 **Mittwoch** |||||
 MIttwoch 27.7.22   | tbd* | tbd*  | tbd*| tbd*       |
-
 |--------------|---------------|-----------|------------------------|------------|
 
 *wird noch festgelegt

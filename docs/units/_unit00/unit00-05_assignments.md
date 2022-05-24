@@ -25,4 +25,5 @@ Was ist ein AsLo, was nicht?
 Notieren Sie sich zu jedem der sechs Punkte 2-3 Stichpunkte und die dazugehörigen Quellen, damit Sie Ihre Informationen mit anderen Kursteilnehmenden vergleichen und diskutieren können.
 
 ## Einreichung
-Diese Übung muss **nicht** abgegeben werden, Ergebnisse dienen jedoch als Grundlage für den nachfolgenden Kurstermin.
+Die Ergebnisse dieser Übung müssen bis spätestens **48 Stunden vor dem nächsten Kurstermin** bearbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen werden.
+Bennenen Sie Ihre Abgabe dazu wie folgt: **A01_Gruppe[Nummer].pdf** bzw **.docx**.

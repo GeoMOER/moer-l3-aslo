@@ -33,10 +33,10 @@ Für diesen Kurs nutzen wir aktuell die folgend aufgeführten Kommunikationsmedi
 Dieses online Lernmodul dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in ILIAS
-Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
+Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in ILIAS
-In Ilias ist ein [Forum](https://ilias.uni-marburg.de/goto.php?target=frm_2363391&client_id=UNIMR){:target="_blank"} eingerichtet, welches Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
+In Ilias ist ein [Forum](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} eingerichtet, welches Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
 Hier können Sie Inhaltliches und Organisatorisches untereinander klären. 
 Das Forum wird von uns nicht betreut. 
 
