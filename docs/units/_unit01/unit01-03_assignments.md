@@ -29,11 +29,15 @@ Diese Übung soll Ihnen helfen sich mit diesen Themen anhand eines konkreten Bei
 * Was ist für eine Nachbereitung der Exkursion im Klassenzimmer wichtig? Wie kann diese aussehen?
 
 **Erarbeiten Sie diese Aufgabe bitte in Ihrer Gruppe.** 
-Notieren Sie Ihre Ergebnisse strukturiert auf zwei DIN-A4-Seiten. Bereiten Sie im Anschluss mit Ihrer Gruppe eine kleine Präsentation vor (Format frei wählbar), mit deren Hilfe Sie Ihre Überlegungen den anderen Gruppen in max. 12 Minuten nachvollziehbar darlegen können. 
+Notieren Sie Ihre Ergebnisse strukturiert auf <u>zwei DIN-A4-Seiten</u>. Bereiten Sie im Anschluss mit Ihrer Gruppe eine kleine Präsentation vor (Format frei wählbar), mit deren Hilfe Sie Ihre Überlegungen den anderen Gruppen in <u>max. 12 Minuten</U> nachvollziehbar darlegen können. 
 
 ## Einreichung
 Die Ergebnisse dieser Übung müssen bis spätestens **48 Stunden vor dem nächsten Kurstermin** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
-Bennenen Sie Ihre Abgabe dazu wie folgt: **A02_[Gruppenummer].pdf** bzw **.docx**. 
-_Beispiel:_ Wenn Sie die Gruppe **3** im Kurs von Frau **P**eter sind ist ihre Gruppennummer **P3**.
+Bennenen Sie Ihre Abgabe dazu wie folgt: **A02_[Gruppenummer].pdf** bzw **.docx**.<br>
+ 
+_Beispiel zur Gruppennummer:_<br> 
+Wenn Sie die Gruppe _3_ im Kurs von Frau _P_ eter sind, ist Ihre Gruppennummer _P3_ (für Bengel wäre es B, für Dörfel D).<br> 
+Ihr Dokument heißt dann bspw.:<br>
+ A02_P3.pdf
 
-(Dateien und Materialien zur Präsentation, z. B. .pptx werden bitte _nicht_ mithochgeladen.)
+(Dateien und Materialien zur Präsentation, z. B. .pptx werden bitte <u>nicht</u> mithochgeladen.)

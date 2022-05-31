@@ -8,7 +8,7 @@ header:
 ---
 
 
-### L1.1 Bildung für nachhaltige Entwicklung (BNE) 
+### Bildung für nachhaltige Entwicklung (BNE) 
 Was in Deutschland in den 70er Jahren als *Umwelterziehung*, 
 mit dem Fokus auf Sensibilisierung und Kenntnisvermittlung begann wurde in den 90er Jahren zu praxis- und handlungsorientierten 
 Lehr- und Lernkonzepten der *Umweltbildung* weiterentwickelt. 
@@ -27,7 +27,7 @@ und für regionale Informationen und Angebote gibt es das Marburger [BNE-Netzwer
 Fachliteratur zu BNE finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2371835&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui){:target="_blank"} <br>
 <br>
 
-### L1.2 Forschendes Lernen 
+### Forschendes Lernen 
 
 Für die Aufarbeitung wissenschaftlicher Fragestellungen im Rahmen eines außerschulischen Lernkonzeptes, bieten sich die Ansätze des forschenden Lernens an.
 Forschendes Lernen übernimmt Strukturen einer wissenschaftlichen Vorgehensweise und dient der Beantwortung konkreter Fragestellungen und damit der Kompetenzvermittlung. 
@@ -39,7 +39,7 @@ Festigung von Grundkenntnissen des wissenschaftlichen Arbeitens, z. B. zur Entwi
 Fachliteratur zu forschendem Lernen finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>
 <br>
 
-### L1.3 Exkursionsdidaktik
+### Exkursionsdidaktik
 
 Eine Exkursion umfasst (hier) den AsLo, aber auch die zielgruppengerechte Planung, Vor- und Nachbereitung der Veranstaltung als Ganzes.
 Die Exkursion selbst vereint dabei den organisatorischen Teil mit dem inhaltlich-methodischen Teil des AsLos.
@@ -49,5 +49,5 @@ Grundlagen der Exkursionsdidaktik, sowie die Rahmenstrukturen, Methoden und Ziel
 Fachliteratur zu Exkursionsdidaktik finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>
 <br>
 
-Anmerkung: Die Inhalte dieser Seite sollen Ihnen eine erste Übersicht über eine Auswahl relevanter Konzepte geben, die gerne mit außerschulischem Lernen in Verbindung gebracht werden. 
+<u>Anmerkung:</u> Die Inhalte dieser Seite sollen Ihnen eine erste Übersicht über eine Auswahl relevanter Konzepte geben, die gerne mit außerschulischem Lernen in Verbindung gebracht werden. 
 Jedoch erhebt diese kleine Einführung nicht den Anspruch auf Vollständigkeit und **ersetzt nicht das ergänzende Selbststudium**, das in diesem Kurs von Ihnen erwartet wird.
