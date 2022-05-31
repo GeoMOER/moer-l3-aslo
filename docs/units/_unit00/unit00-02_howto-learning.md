@@ -36,9 +36,9 @@ Dieses online Lernmodul dient der einseitigen Kommunikation und Bereitstellung v
 Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in ILIAS
-In Ilias ist ein [Forum](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} eingerichtet, welches Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
+In Ilias ist ein [Chat](https://ilias.uni-marburg.de/ilias.php?ref_id=2862984&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} eingerichtet, welcher Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. 
 Hier können Sie Inhaltliches und Organisatorisches untereinander klären. 
-Das Forum wird von uns nicht betreut. 
+Der Chat ist von der Kursleitung einsehbar, wird aber nicht betreut oder moderiert. 
 
 ### Kleingruppen
 Damit Sie nicht isoliert arbeiten müssen, werden wir Sie am ersten Termin in Kleingruppen einteilen. 
@@ -46,9 +46,9 @@ Jede Kleingruppe bleibt dann bis zum Ende des Kurses als Team zusammen.
 Auf ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. 
 Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. 
 Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten.
-Wir werden auf ILIAS auch einen Webkonferenzraum für den Austausch unter Studierenden einrichten, den Sie unabhängig vom digitalen Kurshauptraum zum Austausch nutzen können. Weitere Informationen erhalten Sie in der ersten Sitzung.
+Weitere Informationen erhalten Sie in der ersten Sitzung.
 
-Wir haben für jede Gruppe einen eigenen Webkonferenzraum im Kursbereich in ILIAS eingerichtet den Sie jederzeit nutzen können.
+Wir empfehlen den regelmäßigen Austausch, sowohl innerhalb der Kleingruppen als auch mit den anderen Kursteilnehmenden. 
 {: .notice--info}
 
 

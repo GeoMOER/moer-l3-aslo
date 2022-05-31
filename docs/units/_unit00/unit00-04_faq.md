@@ -6,7 +6,7 @@ header:
 toc: true  
 ---
 
-Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren Antworten.
+Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren Antworten. (Auch noch aus dem Vorjahr!)
 <!--more-->
 
 
@@ -118,5 +118,5 @@ Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinken.
 
 
 ## Literatur
-Einiges an Literatur zur Vertiefung der Themen finden Sie im ILIAS-Ordner „Literatur“. 
-Weitere und ergänzende Literatur sollte eigenständig recherchiert und beschafft werden.
+Einiges an Literatur zur Vertiefung der Themen finden Sie im ILIAS-Ordner [Literatur](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>. 
+Weitere und ergänzende Informationsquellen sollten eigenständig recherchiert und genutzt werden.

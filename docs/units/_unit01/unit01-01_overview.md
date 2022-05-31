@@ -11,7 +11,7 @@ header:
 In diesem Abschnitt werden Sie die Kernkonzepte eines außerschulischen Lernorts kennenlernen. 
 Sie beschäftigen sich mit Ansätzen der *BNE* in der spezifischen Situation eines AsLo. 
 Sie machen sich mit Grundlagen und Methoden der *Exkursionsdidaktik* vertraut und führen schließlich den Ansatz des *Forschenden Lernens* mit fachspezifischen Methoden der Geographie zusammen.
-Dazu erarbeiten Sie sich selbstständig die Inhalte der Einheiten L1.1-3 mithilfe der Videoclips und ergänzendem Selbststudium.
+Dazu erarbeiten Sie sich selbstständig die Inhalte dieser Einheit mithilfe der Videoclips und ergänzendem Selbststudium.
 
 <!--more-->
 

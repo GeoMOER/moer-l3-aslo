@@ -36,7 +36,7 @@ Festigung von Grundkenntnissen des wissenschaftlichen Arbeitens, z. B. zur Entwi
 
 
 {% include video id="5z5qc5AYRg4" provider="youtube" %}
-Fachliteratur zu forschendem Lernen finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2371835&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui){:target="_blank"} <br>
+Fachliteratur zu forschendem Lernen finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>
 <br>
 
 ### L1.3 Exkursionsdidaktik
@@ -46,7 +46,7 @@ Die Exkursion selbst vereint dabei den organisatorischen Teil mit dem inhaltlich
 Grundlagen der Exkursionsdidaktik, sowie die Rahmenstrukturen, Methoden und Ziele einer Exkursion sollten bei der Gestaltung eines AsLos berücksichtigt werden.
 
 {% include video id="GPtilebB-Gs" provider="youtube" %}
-Fachliteratur zu Exkursionsdidaktik finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2371835&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui){:target="_blank"} <br>
+Fachliteratur zu Exkursionsdidaktik finden Sie im geschützten Bereich in [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>
 <br>
 
 Anmerkung: Die Inhalte dieser Seite sollen Ihnen eine erste Übersicht über eine Auswahl relevanter Konzepte geben, die gerne mit außerschulischem Lernen in Verbindung gebracht werden. 
