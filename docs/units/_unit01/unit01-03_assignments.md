@@ -32,7 +32,7 @@ Diese Übung soll Ihnen helfen sich mit diesen Themen anhand eines konkreten Bei
 Notieren Sie Ihre Ergebnisse strukturiert auf <u>zwei DIN-A4-Seiten</u>. Bereiten Sie im Anschluss mit Ihrer Gruppe eine kleine Präsentation vor (Format frei wählbar), mit deren Hilfe Sie Ihre Überlegungen den anderen Gruppen in <u>max. 12 Minuten</U> nachvollziehbar darlegen können. 
 
 ## Einreichung
-Die Ergebnisse dieser Übung müssen bis spätestens **48 Stunden vor dem nächsten Kurstermin** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
+Die Ergebnisse dieser Übung müssen bis spätestens **Montag 23:00 Uhr vor dem nächsten Kurstermin** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
 Bennenen Sie Ihre Abgabe dazu wie folgt: **A02_[Gruppenummer].pdf** bzw **.docx**.<br>
  
 _Beispiel zur Gruppennummer:_<br> 
