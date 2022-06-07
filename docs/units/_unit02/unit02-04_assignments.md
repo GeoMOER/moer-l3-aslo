@@ -10,13 +10,13 @@ header:
 
 Die aktuelle Einheit stellt Ihnen den Wald als potenziellen außerschulischen Lernort vor. 
 Aus den Perspektiven der Geographie und der nachhaltigen Entwicklung bieten die Ökosysteme unserer Wälder ein breites Themenspektrum an.
-Als nächstes sollen Sie sich als Gruppe zu jedem der vorgegebenen fünf Rahmenthemen, eine Leitfrage entwickeln, anhand derer sich ein AsLo gestalten ließe. zur weiteren Bearbeitung entscheiden.
+Als nächstes sollen Sie als Gruppe zu jedem der vorgegebenen fünf Rahmenthemen, eine Leitfrage entwickeln, anhand derer sich ein AsLo gestalten ließe.
 
 
 ## Aufgabe
-*a)* Diskutieren Sie in Ihrer Gruppe die fünf Rahmenthemen und jeweils dazu passende Sub-Themen bzw. Teil-Bereiche, 
+**a)** Diskutieren Sie in Ihrer Gruppe die fünf Rahmenthemen und jeweils dazu passende Sub-Themen bzw. Teil-Bereiche, 
 die in einem AsLo als didaktisches Konzept aufbereitet werden könnten. <br>
-*b)*Entwickeln Sie nun zu jeder Idee eine zentrale Leitfrage, deren Beantwortung, oder zumindest Annäherung, Ziel eines AsLo-Konzeptes sein könnte.<br>
+**b)** Entwickeln Sie nun zu jeder Idee eine zentrale Leitfrage, deren Beantwortung, oder zumindest Annäherung, Ziel eines AsLo-Konzeptes sein könnte.<br>
 <u>Hinweis:</u> Prüfen Sie zu jeder Leitfrage, ob sie verständlich und präzise genug formuliert ist und das (komplexe) Rahmenthema gezielt auf einen, oder wenige Teilaspekte reduziert.<br>
 
 ### Die 5 Rahmenthemen sind
