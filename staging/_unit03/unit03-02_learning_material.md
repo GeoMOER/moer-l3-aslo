@@ -11,7 +11,7 @@ header:
 Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. andere Lehrpersonen) einen ersten Eindruck vermitteln und den inhaltlichen und organisatorischen Strukturen darstellen die thematische Einordnung klären. 
 Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
 
-**Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte!
+**Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte. Zusätzlich zu den Inhalten, die Sie bspw. in der Übung A02 erarbeiten sollten, soll dieser Entwurf auch eine klar definierte Zielgruppe, die ungefähren Abläufe und Methoden und einen groben Zeitplan enthalten! 
 {: .notice--info}
     
 
@@ -20,9 +20,11 @@ Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wi
 -	Zielgruppe
 -	Zielort
 -	Klärung der Relevanz
--	Übergeordnete Fragestellung/Motivation/ Ziele 
+-	Gloables Problem oder Übergeordnete Fragestellung mit BNE-Bezug
+-	Leitfrage(n)
 -	Methoden 
 -	Begründung der Methodenwahl (ggf. didaktischer Kommentar)
+-	Ideen für eine Reflexion
 -	Chronologischer Ablauf mit
 -	Grobem Zeitplan
 -	Sonstige Anmerkungen (z.B. zu Barrierefreiheit, Kosten, Risiken, etc.)
@@ -36,10 +38,10 @@ Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wi
 -	Genaue Ortsangaben
 -	Informationen zur Infrastruktur
 
-Berücksichtigen Sie in Ihrem Lernkonzept nach Möglichkeit den Ansatz des forschenden Lernens, fachspezifische Methoden, BNE-Bezug und einen systemischen Ansatz. 
-Achten Sie auf die Adressatengemäßheit und eine angemessene Berücksichtigung von Schüler*innen-Interessen.
+Berücksichtigen Sie in Ihrem Lernkonzept fachspezifische Methoden, BNE-Bezug sowie einen systemischen Ansatz und machen Sie sich gerne Elemente des forschenden Lernens zu nutze. 
+Achten Sie auf die Adressatengemäßheit und eine angemessene Berücksichtigung von Schüler*innen-Interessen und deren Lebensweltbezug zum Thema.
 
-Für die Berücksichtigung von Schüler*innen-Interessen bei Ihren Planungen kann die Publikation von [Hemmer & Hemmer (2010)](https://ilias.uni-marburg.de/goto.php?target=file_2371842_download&client_id=UNIMR){:target="_blank"} einen Einstieg bieten. 
+Für die Berücksichtigung von Schüler*innen-Interessen bei Ihren Planungen kann die Publikation von [Hemmer & Hemmer (2010)](https://ilias.uni-marburg.de/goto.php?target=file_2868695_download&client_id=UNIMR){:target="_blank"} einen Einstieg bieten. 
 {: .notice--info}
 
 Die nachfolgende Grafik zeigt eine exemplarische Systemeinordnung des Marburg Open Forest, an der Sie Ihre Systembetrachtung ausrichten können.
@@ -49,7 +51,7 @@ Die nachfolgende Grafik zeigt eine exemplarische Systemeinordnung des Marburg Op
 
 
 ## Internes Review des Konzepts
-Nehmen Sie sich Zeit für ein internes Review Ihres Konzepts in der Gruppe, bevor Sie es einreichen oder ggf. präsentieren.
+Nehmen Sie sich Zeit für ein internes Review Ihres Konzepts in **der eignen Gruppe**, bevor Sie es einreichen oder ggf. präsentieren.
 
 Legen Sie großen Wert auf die Fachperspektive der Teilbereiche, die geplante didaktische Umsetzung sowie das Ineinandergreifen der einzelnen Teilbereiche im Gesamtthema.
 
