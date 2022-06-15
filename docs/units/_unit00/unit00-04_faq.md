@@ -12,7 +12,8 @@ Hier finden Sie eine stetig wachsende Übersicht an häufigen Fragen und deren A
 
 ### Wo ist der Uni-Wald (bzw. der Parkplatz)?
 
-Der Wald der Philipps-Universität (auch als Marburg Open Forest bekannt) liegt süd-östlich neben Caldern, ca. 8 km von Marbug entfernt. Den [Parplatz](https://www.openstreetmap.org/search?whereami=1&query=50.84060%2C8.69065#map=19/50.84060/8.69065){:target="_blank"} erreicht man, wenn aus Marburg kommend, den zweiten Kreisverkehr passiert und kurz danach links in den Wald einbiegt.
+Der Wald der Philipps-Universität (auch als Marburg Open Forest bekannt) liegt süd-östlich neben Caldern, ca. 8 km von Marburg entfernt. <br>
+Den [Parkplatz](https://www.openstreetmap.org/search?whereami=1&query=50.84060%2C8.69065#map=19/50.84060/8.69065){:target="_blank"} erreicht man, wenn man, aus Marburg kommend, den zweiten Kreisverkehr passiert und kurz danach links in den Wald einbiegt.<br>
 Leider ist die Anbindung mit ÖPNV nicht besonders gut, daher empfehlen wir bei schönem Wetter das Rad zu nehmen, oder alternativ, Fahrgemeinschaften zu organisieren.
 
 ### Darf man Methoden, Ideen und Konzepte von anderen übernehmen, abändern oder kopieren?
@@ -32,7 +33,7 @@ Inspiration und entwickelt euer eigenes Material.
 
 ### Wird es  mehrere Präsenztermine im Praxisteil geben?
 
-Ja. Genaueres legen wir dann nach der finalen Gruppeneinteilung fest.
+Ja. Die genau Aufteilung der Gruppen auf die Termine legen wir nach der finalen Themenvergabe fest.
 
 ### Muss man bei allen Feldterminen anwesend sein?
 
