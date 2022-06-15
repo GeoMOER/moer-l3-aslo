@@ -33,7 +33,7 @@ Inspiration und entwickelt euer eigenes Material.
 
 ### Wird es  mehrere Präsenztermine im Praxisteil geben?
 
-Ja. Die genau Aufteilung der Gruppen auf die Termine legen wir nach der finalen Themenvergabe fest.
+Ja. Die genaue Aufteilung der Gruppen auf die Termine legen wir nach der finalen Themenvergabe fest.
 
 ### Muss man bei allen Feldterminen anwesend sein?
 
