@@ -8,18 +8,20 @@ header:
 ---
 
 
-Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. andere Lehrpersonen) einen ersten Eindruck vermitteln und den inhaltlichen und organisatorischen Strukturen darstellen die thematische Einordnung klären. 
-Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
+Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. andere Lehrpersonen) einen ersten Eindruck vermitteln, inhaltliche und organisatorische Strukturen darstellen und die thematische Einordnung klären. 
+Interessenten sollen verstehen, worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
 
-**Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte. Zusätzlich zu den Inhalten, die Sie bspw. in der Übung A02 erarbeiten sollten, soll dieser Entwurf auch eine klar definierte Zielgruppe, die ungefähren Abläufe und Methoden und einen groben Zeitplan enthalten! 
+**Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte. <br>
+In Ergänzung dzu dem was Sie bereits in der Übung A02 erarbeiten sollten, 
+soll dieser Entwurf nun auch eine klar definierte Zielgruppe, die ungefähren Abläufe und Methoden und einen groben Zeitplan enthalten! 
 {: .notice--info}
     
 
 ## Was soll rein?
 -	Klärung der Subthemen oder Schwerpunkte mit Einordnung ins Rahmenthema 
+-	Klärung der Relevanz!
 -	Zielgruppe
--	Zielort
--	Klärung der Relevanz
+-	Zielort (Beschaffenheit, Strukturen, Voraussetzungen, etc.)
 -	Gloables Problem oder Übergeordnete Fragestellung mit BNE-Bezug
 -	Leitfrage(n)
 -	Methoden 
@@ -38,7 +40,7 @@ Interessenten sollen verstehen worum es bei der geplanten Veranstaltung geht, wi
 -	Genaue Ortsangaben
 -	Informationen zur Infrastruktur
 
-Berücksichtigen Sie in Ihrem Lernkonzept fachspezifische Methoden, BNE-Bezug sowie einen systemischen Ansatz und machen Sie sich gerne Elemente des forschenden Lernens zu nutze. 
+Berücksichtigen Sie in Ihrem Entwurf die Einbindung fachspezifischer Methoden, die Einordnung in das Fach Geographie (Erdkunde), stellen Sie den BNE-Bezug her und machen Sie sich gerne Elemente des forschenden Lernens zu nutze. 
 Achten Sie auf die Adressatengemäßheit und eine angemessene Berücksichtigung von Schüler*innen-Interessen und deren Lebensweltbezug zum Thema.
 
 Für die Berücksichtigung von Schüler*innen-Interessen bei Ihren Planungen kann die Publikation von [Hemmer & Hemmer (2010)](https://ilias.uni-marburg.de/goto.php?target=file_2868695_download&client_id=UNIMR){:target="_blank"} einen Einstieg bieten. 
