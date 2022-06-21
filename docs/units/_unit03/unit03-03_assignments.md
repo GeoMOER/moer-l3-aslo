@@ -18,7 +18,7 @@ Die Schulleitung hat nicht viel Zeit, muss also kurz und knapp über das Nötigs
 Entwickeln Sie in Ihrer Gruppe einen Konzeptentwurf zu Ihrem Rahmenthema.<br>
 Sie können die gymnasiale Zielgruppe (Jahrgangsstufe) frei wählen. <br>
 Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihrer Idee(n) auf max. **2 DIN A4 Seiten + grober Ablaufplan mit Zeitangaben 1 Seite**.<br> <br>
-In den nachfolgenden Veranstaltungen bekommen Sie die Möglichkeit Ihr Konzept weiter zu verfeinern. Es stellt die Grundlage für Ihre Prüfungsleitung zum Ende des Kures dar.
+In den nachfolgenden Veranstaltungen bekommen Sie die Möglichkeit Ihr Konzept weiter zu verfeinern. Es stellt die Grundlage für Ihre Prüfungsleitung zum Ende des Kurses dar.
 
 ## Einreichung
 Die Ergebnisse dieser Übung müssen bis spätestens **Montag 23:00 Uhr vor dem nächsten Kurstermin** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
