@@ -61,7 +61,7 @@ Mögliche Reflexionsfragen sind:
 
 * *Gibt es eine Leitfrage, ist diese relevant und fachlich eingebettet?*
 * *Ist das Konzept fachlich korrekt?*
-* *Wurde eine geeignete Methoden zur Überprüfung der Leitfrage gewählt?*
+* *Wurden geeignete Methoden zur Überprüfung der Leitfrage gewählt?*
 * *Werden in der Konzeption die Kernideen der Bildung für nachhaltige Entwicklung (BNE) berücksichtigt?*
 * *Ist das Konzept an den Ansätzen des forschenden Lernens ausgerichtet?*
 * *Ist das Konzept für die gewählte Altersgruppe geeignet?*
