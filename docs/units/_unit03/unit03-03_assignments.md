@@ -17,7 +17,7 @@ Die Schulleitung hat nicht viel Zeit, muss also kurz und knapp über das Nötigs
 ## Aufgabe
 Entwickeln Sie in Ihrer Gruppe einen Konzeptentwurf zu Ihrem Rahmenthema.<br>
 Sie können die gymnasiale Zielgruppe (Jahrgangsstufe) frei wählen. <br>
-Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihren Entwurf auf max. **2 Seiten + 1 Seite mit grobem Ablaufplan incl. Zeitangaben **.<br> <br>
+Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihren Entwurf auf max. **2 Seiten + 1 Seite grober Ablaufplan incl. Zeitangaben**.<br> <br>
 In den nachfolgenden Onlineveranstaltungen bekommen Sie die Möglichkeit Ihre Ideen weiter zu verfeinern, im Plenum bzw. in Gruppensessions gegenseitiges Feedback auszutauschen oder direkte Rückfragen an die Kursleiter zu stellen.
 
 ## Einreichung
