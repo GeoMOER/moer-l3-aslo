@@ -12,7 +12,7 @@ Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.
 Interessenten sollen verstehen, worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
 
 **Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte. <br>
-In Ergänzung dzu dem was Sie bereits in der Übung A02 erarbeiten sollten, 
+In Ergänzung zu dem was Sie bereits in der Übung A02 erarbeiten sollten, 
 soll dieser Entwurf nun auch eine klar definierte Zielgruppe, die ungefähren Abläufe und Methoden und einen groben Zeitplan enthalten! 
 {: .notice--info}
     
