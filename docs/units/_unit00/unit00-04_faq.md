@@ -36,9 +36,12 @@ Inspiration und entwickelt euer eigenes Material.
 Ja. Die genaue Aufteilung der Gruppen auf die Termine legen wir nach der finalen Themenvergabe fest.
 
 ### Muss man bei allen Feldterminen anwesend sein?
-
-Nein. Es steht euch frei zu mehreren Terminen dazu zu kommen, wir können es euch nur empfehlen. Ihr solltet allerdings zumindest an dem Tag, an dem auch eure eigene Gruppe präsentiert von Anfang bis Ende dabei sein.
-Diesen Termin solltet ihr nur aus schwerwiegenden Gründen versäumen und eure Abwesendheit mit eurer Gruppe und der Kursleitung im Vorfeld klar kommunizieren.
+  
+Jede/r Kursteilnehmende muss, zusätzlich zu der Präsentation seiner/ihrer eigenen Gruppe, ebenfalls an je einer Präsentation zu jedem der fünf Rahmethemen teilgenommen haben.
+Das bedeutet, ihr könnt euch individuell aussuchen zu welchen anderen Zeitslots ihr dazukommen möchtet, müsst aber am Ende insgesamt an 6 Stück (Euer Thema + 1x jedes der 5 Themen) teilgenommen haben. 
+Die Zuteilung zu den Zeitslots übernehmt ihr individuell selbst auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2862848&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"}
+Diese Termine solltet ihr nur aus schwerwiegenden Gründen versäumen und eure Abwesendheit der Kursleitung im Vorfeld klar kommunizieren und nachträglich nachweisen.
+Es steht euch frei zu mehreren Terminen dazu zu kommen, wir können es euch nur empfehlen.
 
 ### Bis wann muss der Zeitschriften-Artikel (Prüfungsleistung) abgegeben werden?
 

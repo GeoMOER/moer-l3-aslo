@@ -7,11 +7,13 @@ header:
   caption: "Foto: P.Bengel"
 ---
 
-Um ein professionelles Review zu einem Konzept zu erarbeiten, sollten Sie zuerst darauf achten, angesichts fremder (aber auch eigener) Arbeiten eine wertschätzende Haltung einzunehmen. 
-Als Expert*innen bleiben Sie objektiv und urteilen ausschließlich aus fachlicher, niemals aus einer persönlichen Perspektive. 
+Um ein professionelles Review zu einem Konzept zu erarbeiten, sollten Sie zuerst darauf achten, 
+angesichts fremder (aber auch eigener) Arbeiten eine wertschätzende Haltung einzunehmen. 
+Als Expert*innen bleiben Sie objektiv und urteilen ausschließlich aus fachlicher, niemals aus einer persönlichen oder gar emotionalen Perspektive. 
 Praktisch bedeutet das auch, dass negative **und** positive Aspekte herausgestellt und kommentiert werden sollen. 
 Fällt Ihnen etwas positiv auf, merken Sie dies an und erklären auch warum Sie diesen Aspekt als gelungen erachten. 
-Kritisieren Sie einen Punkt, geschieht das immer auf einer sachlichen Basis, mit Argumenten belegt und im Idealfall auch mit konstruktiven Alternativ- oder Optimierungsvorschlägen.
+Kritisieren Sie einen Punkt, geschieht das immer auf einer sachlichen Basis, 
+mit Argumenten belegt und im Idealfall auch mit konstruktiven Alternativ- oder Optimierungsvorschlägen.
 
 Folgende Fragen könnten bspw. im Rahmen Ihres Expert*innen-Review geklärt werden:
 -	Ist die Relevanz des Themas geklärt?

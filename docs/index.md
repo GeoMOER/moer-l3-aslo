@@ -75,7 +75,7 @@ Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz
 | **Praxisteil**  ||||
 | 09 | 25.07.2022 | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
 | 10 | 26.07.2022 | Feldtermin II             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 11 | 27.07.2022 | Feldtermin III            | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
+| <s>11<s/> | <s>27.07.2022<s/> | <s>Feldtermin III<s/>            | <s>Durchführung außerschulischer Lerneinheiten im Marburg Open Forest<s/> | 
 | **Prüfung**  ||||
 | 12 | tbd  | Abschlussbesprechung	    | Organisatorisches zur Prüfungsleistung. Möglichkeit für Fragen. | 
 
