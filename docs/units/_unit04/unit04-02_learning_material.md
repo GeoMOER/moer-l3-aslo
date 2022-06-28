@@ -18,7 +18,7 @@ mit Argumenten belegt und im Idealfall auch mit konstruktiven Alternativ- oder O
 Folgende Fragen könnten bspw. im Rahmen Ihres Expert*innen-Review geklärt werden:
 -	Ist die Relevanz des Themas geklärt?
 -	Ist das Sub-Thema (bzw. die Sub-Themen) klar in das Rahmenthema der Gruppe eingeordnet?
--	Gibt es ein/mehre Leitfrage/n? Sind diese relevant und anhand der Methoden beantwortbar?
+-	Gibt es eine/mehre Leitfrage/n? Sind diese relevant und anhand der Methoden beantwortbar?
 -	Ist die die Zielgruppe definiert?
 -	Ist das Konzept fachlich korrekt?
 -	Sind die Inhalte entsprechend der Altersstufe gewählt und aufgearbeitet? 
@@ -32,7 +32,7 @@ Folgende Fragen könnten bspw. im Rahmen Ihres Expert*innen-Review geklärt werd
 -	Werden die Ziele des Programms ersichtlich? Können sie damit erreicht werden?
 -	Werden andere wichtige Punkte oder Schwierigkeiten aus inhaltlicher, didaktischer oder organisatorischer Sicht aufgeworfen und diskutiert?
 -	Erscheint das Konzept in seiner Gesamtheit als thematisch uns strukturell stimmige Einheit?
--	Hat der Leser nach dem Lesen ein klares Bild davon, wie der AsLo ungefähr aussehen und ablaufen könnte? Wenn nicht, was fehlt?
+-	Hat der/die Lesende nach dem Lesen ein klares Bild davon, wie der AsLo ungefähr aussehen und ablaufen könnte? Wenn nicht, was fehlt?
 
 
 
