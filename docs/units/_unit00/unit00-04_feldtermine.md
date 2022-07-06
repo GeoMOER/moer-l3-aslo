@@ -20,14 +20,14 @@ Datum              | Uhrzeit       | Präsentation A   | Präsentation B    | Tr
 26.7.22   | 09:00-10:30 | Strukturdiversität (Dörfel)  | Mikroklima (Bengel)| Bauwagen       |
 26.7.22   | 11:00-12:30 | Mikroklima (Dörfel)  | Biodiversität (Peter)| Bauwagen       |
 26.7.22   | 13:00-14:30 | Mensch & Wald (Peter)  | | Bauwagen       |
-26.7.22   | 15:00-16:30 | Strukturdiversität (Bengeö)  | Mensch & Wald (Bengel)| Bauwagen      |
+26.7.22   | 15:00-16:30 | Strukturdiversität (Bengel)  | Mensch & Wald (Bengel)| Bauwagen      |
 |--------------|---------------|-----------|------------------------|------------|
 
 
 ## Haupttreffpunkt
 
-ist der Bauwagen. Dort beginnen wir jeden Blocktag gemeinsam um 8:45 Uhr. <br>
-Der Parkplatz am Uni-Wald ist hier, von dort sind es noch cs. 10 Min. Fußweg zum Bauwagen:
+ist der Bauwagen. Dort beginnen wir jeden Blocktag gemeinsam pünktlich *um 8:45 Uhr*. <br>
+Vom Parkplatz am Uni-Wald sind es noch ca. 10 Min. Fußweg zum Bauwagen.
 
 ![https://goo.gl/maps/kAA88xanWEeBEAC66]({{site.baseurl}}/assets/images/uniwald_parken.png)
 
