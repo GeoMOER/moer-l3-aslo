@@ -9,22 +9,25 @@ header:
 ## Zeitplan
 
 
-Datum              | Uhrzeit       | Gruppe    | Thema              | Treffpunkt |
+Datum              | Uhrzeit       | Präsentation A   | Präsentation B    | Treffpunkt |
 |------------------|---------------|-----------|--------------------|------------|
 **Montag** |||||
-Montag 25.7.22     | tbd* | tbd*  | tbd*| tbd*       |
+25.7.22     | 9:00-10:30 | Boden & Wasser (Bengel)  | Strukturdiversität (Peter)| Bauwagen   |
+25.7.22    | 11:00-12:30 | Biodiversität (Bengel)  | | Bauwagen   |
+25.7.22    | 13:00-14:30 | Mikroklima (Peter)  | Mensch & Wald (Bengel) | Bauwagen   |
+25.7.22    | 15:00-16:30 | Biodiversität (Dörfel)  | Boden & Wasser (Peter) | Bauwagen   |
 **Dienstag** |||||
-Dienstag 26.7.22   | tbd* | tbd*  | tbd*| tbd*       |
-**Mittwoch** |||||
-MIttwoch 27.7.22   | tbd* | tbd*  | tbd*| tbd*       |
+26.7.22   | 09:00-10:30 | Strukturdiversität (Dörfel)  | Mikroklima (Bengel)| Bauwagen       |
+26.7.22   | 11:00-12:30 | Mikroklima (Dörfel)  | Biodiversität (Peter)| Bauwagen       |
+26.7.22   | 13:00-14:30 | Mensch & Wald (Peter)  | | Bauwagen       |
+26.7.22   | 15:00-16:30 | Strukturdiversität (Bengeö)  | Mensch & Wald (Bengel)| Bauwagen      |
 |--------------|---------------|-----------|------------------------|------------|
-
-*wird noch festgelegt
 
 
 ## Haupttreffpunkt
 
-Falls nichts anderes von den einzelnen Gruppen angegeben wurde ist der Treffpunkt für die einzelnen Aslos hier:
+ist der Bauwagen. Dort beginnen wir jeden Blocktag gemeinsam um 8:45 Uhr. <br>
+Der Parkplatz am Uni-Wald ist hier, von dort sind es noch cs. 10 Min. Fußweg zum Bauwagen:
 
 ![https://goo.gl/maps/kAA88xanWEeBEAC66]({{site.baseurl}}/assets/images/uniwald_parken.png)
 

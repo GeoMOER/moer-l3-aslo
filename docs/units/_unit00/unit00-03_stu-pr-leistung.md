@@ -10,7 +10,7 @@ header:
 Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in Kleingruppen entlang von Rahmenthemen statt. 
 Die Zuteilung in Gruppen erfolgt durch die Kursleitung. 
 Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. 
-Die Vergabe des Teilbereichss erfolgt innerhalb der Gruppe, ist aber für eine getrennte Benotung der Gruppenmitglieder in der finalen Abgabe (Prüfungsleistung) kenntlich zu machen.
+Die Vergabe des Teilbereichs erfolgt innerhalb der Gruppe, ist aber für eine getrennte Benotung der Gruppenmitglieder in der finalen Abgabe (Prüfungsleistung) kenntlich zu machen.
 
 <!--
 Die Rahmenthemen sind (nach Freischaltung) in der Einheit [Theoretische Grundlagen II](https://geomoer.github.io/moer-l3-aslo/unit02/unit02-03_learning_material.html){:target="_blank"} zu finden.
