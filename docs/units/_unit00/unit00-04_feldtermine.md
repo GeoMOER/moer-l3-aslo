@@ -26,7 +26,7 @@ Datum              | Uhrzeit       | Präsentation A   | Präsentation B    | Tr
 
 ## Haupttreffpunkt
 
-ist der Bauwagen. Dort beginnen wir jeden Blocktag gemeinsam pünktlich *um 8:45 Uhr*. <br>
+ist der Bauwagen. Dort beginnen wir jeden Blocktag gemeinsam pünktlich <b>um 8:45 Uhr</b>. <br>
 Vom Parkplatz am Uni-Wald sind es noch ca. 10 Min. Fußweg zum Bauwagen.
 
 ![https://goo.gl/maps/kAA88xanWEeBEAC66]({{site.baseurl}}/assets/images/uniwald_parken.png)
