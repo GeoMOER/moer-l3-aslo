@@ -7,10 +7,7 @@ header:
 
 ## Studien- und Prüfungsleistung
 
-Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in Kleingruppen entlang von Rahmenthemen statt. 
-Die Zuteilung in Gruppen erfolgt durch die Kursleitung. 
-Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. 
-Die Vergabe des Teilbereichs erfolgt innerhalb der Gruppe, ist aber für eine getrennte Benotung der Gruppenmitglieder in der finalen Abgabe (Prüfungsleistung) kenntlich zu machen.
+Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in Kleingruppen entlang von Rahmenthemen statt. Die Zuteilung in Gruppen erfolgt durch die Kursleitung. Jedes Gruppenmitglied ist für einen definierten Teilbereich innerhalb des Rahmenthemas für die Lernumgebung verantwortlich. Die Vergabe des Teilbereichs erfolgt gruppenintern und ist daher nicht zwingend kenntlich zu machen.
 
 <!--
 Die Rahmenthemen sind (nach Freischaltung) in der Einheit [Theoretische Grundlagen II](https://geomoer.github.io/moer-l3-aslo/unit02/unit02-03_learning_material.html){:target="_blank"} zu finden.
@@ -30,10 +27,10 @@ Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter umfassen und insg. mindest
 Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. 
 Die Erfahrungen und Rückmeldungen aus den Übungen und der praktischen Erprobung sollen in die Erstellung des Beitrags einfließen. 
 Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. 
-Der Anhang umfasst alle Vorlagen, Arbeitsblätter und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. 
+Der Anhang umfasst alle verwendeten Medien, sowie Screenshots digitaler Anwendungen und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.
 Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.<br>
-Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **30.09.2022** um **23:59 Uhr** in den entsprechenden [Abgabe-Ordner](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} auf ILIAS hochzuladen und in folgender Form zu bennen: _TT-MM-JJJJ_Artikel_[Rahmenthema]_Guppe-[Nr.].pdf_ (Bsp.: 30-09-2022_Artikel_Strukturdiversität_Gruppe-B3.pdf)B
-<br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie in am Ende der jeweiligen Lerneinheiten, hier im Lernmodul. <br>
+Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **13.08.2023** um **23:59 Uhr** in den entsprechenden [Abgabe-Ordner](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} auf ILIAS hochzuladen und in folgender Form zu benennen: _TT-MM-JJJJ_Artikel_[Rahmenthema]_Guppe-[Nr.].pdf_ (Bsp.: 12-08-2023_Artikel_Mikroklima_Gruppe-B3.pdf)
+<br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 
 ### Abgaben
 Während des Kurses werden verschiedene Übungen Konzeptentwicklung, -entwurf und Review (Studienleistung) aufgeben.

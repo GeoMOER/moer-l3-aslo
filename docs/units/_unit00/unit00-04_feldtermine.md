@@ -12,15 +12,20 @@ header:
 Datum              | Uhrzeit       | Präsentation A   | Präsentation B    | Treffpunkt |
 |------------------|---------------|-----------|--------------------|------------|
 **Montag** |||||
-25.7.22     | 9:00-10:30 | Boden & Wasser (Bengel)  | Strukturdiversität (Peter)| Bauwagen   |
-25.7.22    | 11:00-12:30 | Biodiversität (Bengel)  | | Bauwagen   |
-25.7.22    | 13:00-14:30 | Mikroklima (Peter)  | Mensch & Wald (Bengel) | Bauwagen   |
-25.7.22    | 15:00-16:30 | Biodiversität (Dörfel)  | Boden & Wasser (Peter) | Bauwagen   |
+17.07.23    | 09:00-10:30 | tbd  | tbd | Bauwagen   |
+17.07.23    | 11:00-12:30 | tbd  | tbd | Bauwagen   |
+17.07.23    | 13:00-14:30 | tbd  | tbd | Bauwagen   |
+17.07.23    | 15:00-16:30 | tbd  | tbd | Bauwagen   |
 **Dienstag** |||||
-26.7.22   | 09:00-10:30 | Strukturdiversität (Dörfel)  | Mikroklima (Bengel)| Bauwagen       |
-26.7.22   | 11:00-12:30 | Mikroklima (Dörfel)  | Biodiversität (Peter)| Bauwagen       |
-26.7.22   | 13:00-14:30 | Mensch & Wald (Peter)  | | Bauwagen       |
-26.7.22   | 15:00-16:30 | Strukturdiversität (Bengel)  | Mensch & Wald (Dörfel)| Bauwagen      |
+18.07.23    | 09:00-10:30 | tbd  | tbd | Bauwagen   |
+18.07.23    | 11:00-12:30 | tbd  | tbd | Bauwagen   |
+18.07.23    | 13:00-14:30 | tbd  | tbd | Bauwagen   |
+18.07.23    | 15:00-16:30 | tbd  | tbd | Bauwagen   |
+**Mittwoch** |||||
+19.07.23    | 09:00-10:30 | tbd  | tbd | Bauwagen   |
+19.07.23    | 11:00-12:30 | tbd  | tbd | Bauwagen   |
+19.07.23    | 13:00-14:30 | tbd  | tbd | Bauwagen   |
+19.07.23    | 15:00-16:30 | tbd  | tbd | Bauwagen   |
 |--------------|---------------|-----------|------------------------|------------|
 
 

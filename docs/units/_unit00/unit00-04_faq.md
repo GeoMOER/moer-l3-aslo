@@ -31,7 +31,7 @@ ihr nutzen wollt, klärt die Nutzungsbedingungen (ohne dabei
 das Urheberrecht zu verletzen!) oder nutzt es als
 Inspiration und entwickelt euer eigenes Material.
 
-### Wird es  mehrere Präsenztermine im Praxisteil geben?
+### Wird es  mehrere Präsenztermine im Praxisblock am Ende geben?
 
 Ja. Die genaue Aufteilung der Gruppen auf die Termine legen wir nach der finalen Themenvergabe fest.
 
@@ -107,7 +107,7 @@ organisiert, Hauptsache es läuft für euch.
 
 ### Fällt man durch wenn man verhindert ist an einem Termin ?
 
-Nein.
+Nicht wenn ein Attest oder ein schwerwiegender Grund vorliegt.
 
 
 ###  Kann man Meko und Aslo parallel belegen?
@@ -127,5 +127,5 @@ Feste Schuhe, Regensachen, robuste Kleidung, Tagesverpflegung, genug zu trinken.
 
 
 ## Literatur
-Einiges an Literatur zur Vertiefung der Themen finden Sie im ILIAS-Ordner [Literatur](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"} <br>. 
+Einiges an Literatur zur Vertiefung der Themen finden Sie im ILIAS-Ordner [Literatur](https://ilias.uni-marburg.de/ilias.php?ref_id=2863632&cmd=view&cmdClass=ilrepositorygui&cmdNode=z4&baseClass=ilrepositorygui){:target="_blank"}. <br> 
 Weitere und ergänzende Informationsquellen sollten eigenständig recherchiert und genutzt werden.

@@ -23,63 +23,53 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
+Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
 
 ## Lernziele
 Am Ende des Kurses sollen Sie in der Lage sein
 * ausgehend von einer fachlichen Problemstellung eine außerschulische Lernumgebung konzipieren zu können,
-* dafür fachspezifische Methoden so aufzubereiten, dass eine adressaten- und problemorientierte Lernsituation geschaffen wird, und
+* dafür fachspezifische Methoden so aufzubereiten, dass eine adressaten- und problemorientierte Lernsituation geschaffen wird, 
+* dazu den Mehrwert mobiler digitaler Medien zu identifizieren, sowie diese sinnvoll zu gestalten und einzusetzen, und
 * eine Lernumgebung am konkreten außerschulischen Standort aus fachlicher und fachdidaktischer Perspektive sowie im Hinblick auf Bildung für nachhaltige Entwicklung zu analysieren.
+
 
 
 
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Dank jüngster Entwicklungen wird der Kurs ab sofort wieder in Präsenz stattfinden. Das gilt für Kurstermine ebenso wie für den Praxisteil am Ende des Semesters. Weiter Informationen finden Sie unter [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"}.
+Information zum Format des Kurses: Der Kurs gliedert sich in zwei Blockeinheiten, je einer vor Beginn und einer nach Ende des Vorlesungszeitraums und vereinzelte Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter  [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"}.
 {: .notice--info}
 
 
 ## Gruppenarbeit und Gruppenbildung
-Sie werden dieses Modul in kleingruppen durchlaufen. 
+Sie werden dieses Modul in Kleingruppen durchlaufen. 
 
-* Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
-* Die Gruppe arbeitet das gesamte Modul zusammen. 
-* Sie treffen sich regelmäßig in Präsenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
-* Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} zur Verfügung.
+* Die Gruppenzuordnung werden wir in der ersten Blockveranstaltung vornehmen.
+* Die Gruppe arbeitet das gesamte Modul zusammen.
+* Sie treffen sich während dem Semester regelmäßig selbstständig in Präsenz oder online und bearbeiten gemeinsam Arbeitsaufträge.
+
 
 
 ## FAQs
 
-Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten.
-Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) auf dieser Webseite aufbereiten und für alle TeilnehmerInnen zur Verfügung stellen.
+Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. Häufig auftretende Fragen und Probleme (auch aus den vergangenen Semestern) werden wir im Bereich [FAQs]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) auf dieser Webseite aufbereiten und für alle TeilnehmerInnen zur Verfügung stellen.
 
 
 ## Kurszeiten
-Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz 
+Erste Blockveranstaltung (siehe Grafik <i>Ablauf Block 1</i>) vom <b>03.-05.04.2023</b> in Präsenz<br>
+Während dem Semester <b>Mittwochs 10:00 bis 12:00 Uhr</b> in Präsenz oder online (nach Absprache)<br>
+Zweite Blockveranstaltung (tägl. 8:00-18:00 Uhr) vom <b>17.-19.07.2023</b> in Präsenz
 
 
-## Seminarplan
-
-|    | Termin | Thema | Inhalt  | 
-|----|--------|-------|---------|
-|**Theorieteil**  ||||
-| 01 | 25.05.2022  | Einführung                     | Modulverlauf, Termine, Gruppenbildung, Organisatorisches  | 
-| 02 | 01.06.2022  | Theoretische Grundlagen 1      | BNE, Forschendes Lernen, Exkursionsdidaktik | 
-| 03 | 08.06.2022  | Konzeptideen     | Erste Ideen für außerschulische Lernorte  |
-| 04 | 15.06.2022  | Theoretische Grundlagen 2      | (Projektwoche) | 
-| 05 | 22.06.2022  | Konzeptentwürfe     | Verteilung der Rahmenthemen / Entwurf eines AsLo-Konzepts  |
-| 06 | 29.06.2022  | Peer-Reviews     | ExpertInnenfeedback von anderen Seminargruppen zu den Entwürfen |
-| 07 | 06.07.2022  | Konzeptbewertungen mit Reviewpräsentationen       | Finale Ausarbeitung der Konzepte | 
-| 08 | 13.07.2022  | Finales Konzept      | Orga für Blocktermine  | 
-| **Praxisteil**  ||||
-| 09 | 25.07.2022 | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 10 | 26.07.2022 | Feldtermin II             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| <s>11<s/> | <s>27.07.2022<s/> | <s>Feldtermin III<s/>            | <s>Durchführung außerschulischer Lerneinheiten im Marburg Open Forest<s/> | 
-| **Prüfung**  ||||
-| 12 | tbd  | Abschlussbesprechung	    | Organisatorisches zur Prüfungsleistung. Möglichkeit für Fragen. | 
-
-
+## Ablauf Block 1
+<br>
+![block1_tag1]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag1.png)
+<br> 
+![block1_tag2]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag2.png)
+<br> 
+![block1_tag3]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag3.png)
+<br> 
 
 
 ## Team

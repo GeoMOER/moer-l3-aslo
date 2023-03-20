@@ -83,6 +83,12 @@ collections:
   unit04:
     output: true
     permalink: /:collection/:title.html
+  unit05:
+    output: true
+    permalink: /:collection/:title.html
+  unit06:
+    output: true
+    permalink: /:collection/:title.html
 
 # Default settings
 defaults:
@@ -111,7 +117,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Theoretische Grundlagen I"
+      category: "Didaktische Grundlagen"
       tags: "Unit 01"
       layout: single
       sidebar:
@@ -121,7 +127,7 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "Theoretische Grundlagen II"
+      category: "Der Wald als AsLo"
       tags: "Unit 02"
       layout: single
       sidebar:
@@ -131,7 +137,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "Konzeptentwürfe I und II"
+      category: "Mobile Digitale Medien"
       tags: "Unit 03"
       layout: single
       sidebar:
@@ -141,11 +147,31 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "Expert*innen-Review"
+      category: "Konzeptentwicklung"
       tags: "Unit 04"
       layout: single
       sidebar:
-        nav: "course_unit"     
+        nav: "course_unit"  
+  # unit05
+  - scope:
+      path: ""
+      type: unit05
+    values:
+      category: "Expert*innen-Review"
+      tags: "Unit 05"
+      layout: single
+      sidebar:
+        nav: "course_unit"   
+  # unit06
+  - scope:
+      path: ""
+      type: unit06
+    values:
+      category: "Arbeitsaufträge"
+      tags: "Unit 06"
+      layout: single
+      sidebar:
+        nav: "course_unit"
   # pages
   - scope:
       path: "_pages"
