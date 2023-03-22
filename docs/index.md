@@ -38,7 +38,7 @@ Am Ende des Kurses sollen Sie in der Lage sein
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information zum Format des Kurses: Der Kurs gliedert sich in zwei Blockeinheiten, je einer vor Beginn und einer nach Ende des Vorlesungszeitraums und vereinzelte Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter  [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"}.
+Information zum Format des Kurses: Der Kurs gliedert sich in zwei Blockeinheiten, je einer vor Beginn und einer nach Ende des Vorlesungszeitraums und vereinzelte Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter  [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=3174856&cmdClass=ilrepositorygui&cmdNode=z7&baseClass=ilrepositorygui){:target="_blank"}.
 {: .notice--info}
 
 

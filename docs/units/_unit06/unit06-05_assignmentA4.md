@@ -7,19 +7,17 @@ header:
   caption: "Photo: P. Bengel"
 ---
 
-Erstellen Sie zusammen mit Ihrer Gruppe (**Reviewgruppe**) ein kritisch-konstruktives Expert*innen-Review zum Konzept einer anderen Gruppe (**Autor*innengruppe**).
+Stellen Sie mithilfe des Expert*innen-Reviews Ihr Konzept fertig und bereiten sich für einen Beratungstermin und schließlich Ihre Praxispräsentation im Marburg Open Forest vor.
 <!--more-->
 
 ## Aufgabe
-Sie verfassen ein professionelles Review im Umfang von mindestens **einer DIN A4 Seite** zu dem Konzept der Ihnen zugeordneten Autorengruppe. 
-Es steht Ihnen zudem frei innerhalb des Konzeptentwurfes Kommentare, Markierungen oder Anmerkungen zu hinterlassen.
+Diskutieren Sie das Review, das Sie zu Ihrem Konzeptentwurf bekommen haben, in der Gruppe und arbeiten die relevanten Punkte in Ihr Konzept ein. Machen Sie sich dann an die vollständige Ausarbeitung Ihrer Idee, selektieren Inhalte, entwickeln Materialien, erstellen Medien, etc. und bereiten Ihre Präsentation für unsere Feldtermine in der abschließenden Blockveranstaltung vor.
+Den zeitlichen Rahmen für das Gesamtformat können Sie selbst frei, aber sinnvoll wählen. Für die Präsentation stehen Ihnen allerdings maximal 60 Minuten zur Verfügung. 
+Neben den notwendigen Materialien fertigen Sie bitte zusätzlich eine Übersicht zu Ihrem Konzept an, bestehend aus Ihrem aktualisierten (!) Konzeptentwurf (basierend auf A2 und A3) und den Fragen oder Punkten, die Sie gerne in einem persönlichen Beratungsgespräch mit der Seminarleitung vor unseren Feldterminen klären möchten.
 
 ## Einreichung
-Die Ergebnisse dieser Übung müssen bis spätestens **Dienstag 20.06.23 6:00 Uhr** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
-Bennenen Sie Ihre Abgabe dazu diesmal in folgender Form mit deutlicher Kennzeichnung der jeweiligen Autor*innen- und Reviewgruppe: <br> <br> A3_Aut[Nr.]_Rev[Nr.].pdf <br> <br>
-
-**<font color="blue"> Beispiel: </font>** Wenn Sie die Gruppe _P3_ wären und ein Review zu dem Entwurf der Gruppe _P2_ geschrieben hätten, müsste Ihr Dokument so aussehen: <br>
-_A3_AutP2_RevP3.pdf_
+Die Übersicht mit Fragen/Punkten erstellen Sie bitte bis **Dienstag 27.06.23 6:00 Uhr** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=3174856&cmd=return&cmdClass=ilrepositorygui&cmdNode=z7&baseClass=ilrepositorygui&redirectSource=ilobjcoursegui&cmdMode=){:target="_blank"} als .docx oder .pdf hochgeladen sein.
+Bennenen Sie Ihre Abgabe wie üblich in folgender Form : <br> <br> A4_[GRp.Nr.] <br> <br>
 
 
 

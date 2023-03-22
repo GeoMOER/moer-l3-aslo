@@ -29,7 +29,7 @@ Die Erfahrungen und Rückmeldungen aus den Übungen und der praktischen Erprobun
 Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. 
 Der Anhang umfasst alle verwendeten Medien, sowie Screenshots digitaler Anwendungen und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.
 Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.<br>
-Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **13.08.2023** um **23:59 Uhr** in den entsprechenden [Abgabe-Ordner](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} auf ILIAS hochzuladen und in folgender Form zu benennen: _TT-MM-JJJJ_Artikel_[Rahmenthema]_Guppe-[Nr.].pdf_ (Bsp.: 12-08-2023_Artikel_Mikroklima_Gruppe-B3.pdf)
+Der fertige Artikel ist als **ein** PDF-Dokument bis spätestens **13.08.2023** um **23:59 Uhr** in den entsprechenden Abgabe-Ordnerauf [ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=3174856&cmd=return&cmdClass=ilrepositorygui&cmdNode=z7&baseClass=ilrepositorygui&redirectSource=ilobjcoursegui&cmdMode=){:target="_blank"}  hochzuladen und in folgender Form zu benennen: _TT-MM-JJJJ_Artikel_[Rahmenthema]_Guppe-[Nr.].pdf_ (Bsp.: 12-08-2023_Artikel_Mikroklima_Gruppe-B3.pdf)
 <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 
 ### Abgaben

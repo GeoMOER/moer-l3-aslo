@@ -31,7 +31,7 @@ Für diesen Kurs nutzen wir aktuell die folgend aufgeführten Kommunikationsmedi
 Dieses online Lernmodul dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in ILIAS
-Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben. 
+Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=3174856&cmdClass=ilrepositorygui&cmdNode=z7&baseClass=ilrepositorygui){:target="_blank"} dient der Organisation des Kurses und seiner Gruppen, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben. 
 
 ### Kleingruppen
 Während der ersten Blockveranstaltung werden wir Sie in Kleingruppen einteilen. Jede Kleingruppe bleibt dann bis zum Ende des Kurses als Team zusammen. Auf ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit “@students.uni-marburg.de” ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich verabreden und anschließend online oder offline besprechen können. Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten. Weitere Informationen erhalten Sie in der ersten Sitzung.
