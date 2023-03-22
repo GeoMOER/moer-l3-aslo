@@ -31,11 +31,11 @@ Beispiele für <b>gezielte Anwendungszwecke</b> wären...
 * Evaluation
 
 Beispiele für Format die als <b>digitalte Gesamtkonzepte</b> umgesetzt werden, wären...
-* Media Guides (bspw. in Mussen)
+* Media Guides (bspw. in Museen)
 * Trails (bspw. in der Natur)
-* Rallyes (bspw. zu bestimmten Themen)
+* Rallyes (bspw. zu bestimmten Themenbereichen)
 * Games (bspw. als Wissens-Quiz, Gruppen-Wettbewerb oder Escape-Game)
-* VR-Exkursionen (bspw. zu weit entfernten oder gefährlichen Exkursionszielen)
+* VR-Exkursionen (bspw. zu weit entfernten, oder gefährlichen Exkursionszielen)
 
 ## Wie können mdM in AsLos eingesetzt werden?
 ### Didaktische Ansätze
@@ -53,7 +53,7 @@ Beachten Sie dazu die entsprechenden Literaturempfehlungen auf ILIAS
 {: .notice--info}
 ### Wahl der richtigen Anwendung
 
-Bei der Auswahl geeigneter Software und Apps gilt es, zwischen unterscheidlichen Faktoren abzuwägen. Nicht selten ist das Ergebnis ein Kompromiss zwischen den Rahmenbedingungen, den Gestaltungsmöglichkeiten und dem Support der einem als Anwender*in zur Verfügung steht. Es gilt diese Bedingungen intensiv zu prüfen, bevor damit begonnen wird Zeit, Energie und Kreativität in die Ausgestaltung fließen zu lassen. 
+Bei der Auswahl geeigneter Software und Apps gilt es, zwischen unterschiedlichen Faktoren abzuwägen. Nicht selten ist das Ergebnis ein Kompromiss zwischen den Rahmenbedingungen, den Gestaltungsmöglichkeiten und dem Support der einem als Anwender*in zur Verfügung steht. Es gilt diese Bedingungen intensiv zu prüfen, bevor damit begonnen wird Zeit, Energie und Kreativität in die Ausgestaltung fließen zu lassen. 
 
 ![Folie42]({{site.baseurl}}/assets/images/Folie42.png)
 

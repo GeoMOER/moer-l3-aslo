@@ -7,7 +7,7 @@ header:
   caption: "Foto: P.Bengel"
 ---
 
-Ergänzend zur Theorie finden Sie hier Arbeitsaufträge die Sie nach Aufforderung durch die Seminarleitung selbstständig in Ihren Kleingruppen erfüllen. Jede Aufgabe repräsentiert dabei einen essentiellen Arbeitsschritt zur Entwicklung und Umsetzung Ihres auserschulischen Lernkonzepts. 
+Ergänzend zur Theorie finden Sie hier Arbeitsaufträge die Sie nach Aufforderung durch die Seminarleitung selbstständig in Ihren Kleingruppen erfüllen. Jede Aufgabe repräsentiert dabei einen essentiellen Arbeitsschritt zur Entwicklung und Umsetzung Ihres außerschulischen Lernkonzepts. 
 <!--more-->
 
 ## Hinweis

@@ -65,10 +65,14 @@ Zweite Blockveranstaltung (tägl. 8:00-18:00 Uhr) vom <b>17.-19.07.2023</b> in P
 ## Ablauf Block 1
 <br>
 ![block1_tag1]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag1.png)
+<br>Räume: <br>gelb = 01A03<br> grün = 01A25<br> grau = 01A24
+{: .notice--info}
 <br> 
 ![block1_tag2]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag2.png)
+{: .notice--info}
 <br> 
 ![block1_tag3]({{site.baseurl}}/assets/images/AsLo2023Block1_Tag3.png)
+{: .notice--info}
 <br> 
 
 

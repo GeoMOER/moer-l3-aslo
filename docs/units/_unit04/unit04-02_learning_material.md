@@ -8,7 +8,7 @@ header:
 ---
 
 
-Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. andere Lehrpersonen) einen ersten Eindruck vermitteln, inhaltliche und organisatorische Strukturen darstellen und die thematische Einordnung klären. 
+Der Konzeptentwurf für Ihren außerschulischen Lernort soll Außenstehenden (z.B. anderen Lehrpersonen) einen ersten Eindruck vermitteln, inhaltliche und organisatorische Strukturen darstellen und die thematische Einordnung klären. 
 Interessenten sollen verstehen, worum es bei der geplanten Veranstaltung geht, wie das Thema angegangen wird, wer damit angesprochen werden soll und abschätzen können welcher Umfang und Aufwand mit einer Umsetzung verbunden sind.  
 
 **Beachten Sie:** Es handelt sich dabei weder um einen klassischen *Unterrichtsentwurf*, noch um eine detaillierte Ausarbeitung Ihrer Konzepte. <br>
