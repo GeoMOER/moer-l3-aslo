@@ -22,7 +22,7 @@ Nutzen Sie die bisherigen Informationen aus dem Kurs und dokumentieren Sie Ihrer
 In den nachfolgenden Veranstaltungen/Arbeitsaufträgen bekommen Sie die Möglichkeit Ihr Konzept weiter zu verfeinern. Es stellt die Grundlage für Ihre Prüfungsleitung zum Ende des Kurses dar.
 
 ## Einreichung
-Die Ergebnisse dieser Übung müssen bis spätestens **Dienstag 30.05.23 6:00 Uhr** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
+Die Ergebnisse dieser Übung müssen bis spätestens **Dienstag 09.05.23 6:00 Uhr** erarbeitet und von (nur!) einem Gruppenmitglied in den entsprechenden Abgabeordner auf [ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} als .docx oder .pdf hochgeladen sein.
 Bennenen Sie Ihre Abgabe dazu wie folgt: **A2_[Gruppenummer].pdf** bzw **.docx**.<br>
 
 
