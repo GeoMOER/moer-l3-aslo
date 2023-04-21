@@ -22,8 +22,8 @@ soll dieser Entwurf nun auch eine klar definierte Zielgruppe, die ungefähren Ab
 -	Klärung der Relevanz!
 -	Zielgruppe
 -	Zielort (Beschaffenheit, Strukturen, Voraussetzungen, etc.)
--	Gloables Problem oder Übergeordnete Fragestellung mit BNE-Bezug
--	Leitfrage(n)
+-	Gloables Problem oder übergeordnete Fragestellung (Leitfrage(n)) mit BNE-Bezug
+-	Forschungsfragen / Hypothesen (bei Forschendem Lernen relevant, sollten anhand der Methoden zu beantworten / überprüfen sein)
 -	Methoden 
 -	Begründung der Methodenwahl (ggf. didaktischer Kommentar)
 -	Geplante Materialien und Tools (inkl. mobile digitale Medien)

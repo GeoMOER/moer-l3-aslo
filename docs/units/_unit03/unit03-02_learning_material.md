@@ -10,11 +10,11 @@ header:
 
 ## Warum überhaupt?
 
-###Gründe warum mdM in AsLos eingesetzt werden sollten
+### Gründe warum mdM in AsLos eingesetzt werden sollten
 
 ![Folie11]({{site.baseurl}}/assets/images/Folie11.png)
 
-###Umstände die für den sinnvollen Einsatz mdM in AsLos berücksichtigt werden sollten
+### Umstände die für den sinnvollen Einsatz mdM in AsLos berücksichtigt werden sollten
 
 ![Folie13]({{site.baseurl}}/assets/images/Folie13.png)
 
