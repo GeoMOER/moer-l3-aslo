@@ -21,7 +21,7 @@ Datum              | Uhrzeit       | Präsentation A   | Präsentation B    | Tr
 18.07.23    | 11:00-12:30 | tbd  | tbd | Bauwagen   |
 18.07.23    | 13:00-14:30 | tbd  | tbd | Bauwagen   |
 18.07.23    | 15:00-16:30 | tbd  | tbd | Bauwagen   |
-**Mittwoch** |||||
+<s>**Mittwoch**</s> |||||
 19.07.23    | 09:00-10:30 | tbd  | tbd | Bauwagen   |
 19.07.23    | 11:00-12:30 | tbd  | tbd | Bauwagen   |
 19.07.23    | 13:00-14:30 | tbd  | tbd | Bauwagen   |
